@@ -16,9 +16,13 @@ public abstract class AbstractNameDetector implements Detector {
     }
 
     public List<String> findAll(String text) {
+        return this.findAll(TextUtils.tokenizeBySentence(text));
+    }
+
+    public List<String> findAll(List<String[]> tokensBySentence) {
         List<String> results = new ArrayList<>();
 
-        TextUtils.tokenizeBySentence(text).forEach(tokens -> {
+        tokensBySentence.forEach(tokens -> {
             Span[] nameSpans = nameFinder.find(tokens);
             String[] names = Span.spansToStrings(nameSpans, tokens);
             results.addAll(Arrays.asList(names));
