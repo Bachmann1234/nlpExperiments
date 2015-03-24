@@ -1,11 +1,14 @@
 package com.mattbachmann.nlpexperiments.utils;
 
 import com.google.inject.Inject;
+import com.mattbachmann.nlpexperiments.detectors.Detector;
 import opennlp.tools.sentdetect.SentenceDetector;
 import opennlp.tools.tokenize.Tokenizer;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public abstract class TextUtils {
 
@@ -32,5 +35,12 @@ public abstract class TextUtils {
             tokens.add(tokenizer.tokenize(sentence));
         }
         return tokens;
+    }
+
+    public static Map<String, List<String>> extractMatchesFromText(List<Detector> detectors, String text) {
+        Map<String, List<String>> results = new HashMap<>();
+        List<String[]> tokens = tokenizeBySentence(text);
+        detectors.forEach(detector -> results.put(detector.getLabel(), detector.findAll(tokens)));
+        return results;
     }
 }
