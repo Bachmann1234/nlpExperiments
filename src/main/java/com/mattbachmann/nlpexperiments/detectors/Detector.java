@@ -4,7 +4,6 @@ import java.util.List;
 
 public interface Detector {
     public String getLabel();
-    public List<String> findAll(String text);
-    public List<String> findAll(List<String[]> tokensBySentence);
+    public List<String> findAll(String text) throws DetectionException;
 
 }

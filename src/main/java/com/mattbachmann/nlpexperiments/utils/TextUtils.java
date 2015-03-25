@@ -1,6 +1,7 @@
 package com.mattbachmann.nlpexperiments.utils;
 
 import com.google.inject.Inject;
+import com.mattbachmann.nlpexperiments.detectors.DetectionException;
 import com.mattbachmann.nlpexperiments.detectors.Detector;
 import opennlp.tools.sentdetect.SentenceDetector;
 import opennlp.tools.tokenize.Tokenizer;
@@ -37,10 +38,13 @@ public abstract class TextUtils {
         return tokens;
     }
 
-    public static Map<String, List<String>> extractMatchesFromText(List<Detector> detectors, String text) {
+    public static Map<String, List<String>> extractMatchesFromText(
+            List<Detector> detectors, String text
+    ) throws DetectionException {
         Map<String, List<String>> results = new HashMap<>();
-        List<String[]> tokens = tokenizeBySentence(text);
-        detectors.forEach(detector -> results.put(detector.getLabel(), detector.findAll(tokens)));
+        for(Detector detector : detectors) {
+            results.put(detector.getLabel(), detector.findAll(text));
+        }
         return results;
     }
 }

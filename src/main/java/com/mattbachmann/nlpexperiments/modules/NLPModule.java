@@ -16,6 +16,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 public class NLPModule extends AbstractModule {
+
     @Override
     protected void configure() {
         InputStream personModelFile;
@@ -32,6 +33,7 @@ public class NLPModule extends AbstractModule {
         NameFinderME locationModel;
         Tokenizer tokenizer;
         try {
+            //This may be a bad idea as these build adaptive data... Just... clear the adaptive data between runs
             personModel = new NameFinderME(new TokenNameFinderModel(personModelFile));
             locationModel = new NameFinderME(new TokenNameFinderModel(locationModelFile));
             tokenizer = new TokenizerME(new TokenizerModel(tokenModelFile));

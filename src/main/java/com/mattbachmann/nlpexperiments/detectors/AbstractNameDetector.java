@@ -27,6 +27,7 @@ public abstract class AbstractNameDetector implements Detector {
             String[] names = Span.spansToStrings(nameSpans, tokens);
             results.addAll(Arrays.asList(names));
         });
+        nameFinder.clearAdaptiveData();
 
         return results;
     }
