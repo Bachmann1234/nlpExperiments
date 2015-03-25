@@ -48,3 +48,13 @@ hs_err_pid*
 .idea
 *.sublime-*
 .nb-gradle
+resources/org/apache
+resources/org/mitre
+resources/NOTICE
+resources/WHAT_IS_THIS
+resources/LICENSE
+src/main/resources/NOTICE
+src/main/resources/LICENSE
+src/main/resources/META-INF/org.apache.uima.fit
+src/main/resources/apache/ctakes
+src/main/resources/org
