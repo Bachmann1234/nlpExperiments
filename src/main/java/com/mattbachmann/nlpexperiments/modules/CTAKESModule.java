@@ -15,7 +15,7 @@ public class CTAKESModule extends AbstractModule {
         // You can consider using ClinicalPipelineFactory.getDefaultPipeline();
         try {
             //if using default pipeline you need some environment variables set
-            //ctakes.umlsuser and ctatkes.umlspw
+            //ctakes.umlsuser and ctakes.umlspw
             builder.add(ClinicalPipelineFactory.getFastPipeline());
             //builder.add(ClinicalPipelineFactory.getTokenProcessingPipeline());
         } catch (ResourceInitializationException e) {
