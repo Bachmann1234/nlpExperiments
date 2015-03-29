@@ -40,7 +40,7 @@ public class ScanDirectory {
         List<Detector> detectors = new ArrayList<>();
         detectors.add(injector.getInstance(LocationDetector.class));
         detectors.add(injector.getInstance(PersonDetector.class));
-        detectors.add(injector.getInstance(MedicalTermDetector.class));
+        detectors.add(injector.getInstance(DrugDetector.class));
 
         String locationLabel = detectors.get(0).getLabel();
         String personLabel = detectors.get(1).getLabel();

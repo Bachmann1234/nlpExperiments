@@ -12,11 +12,11 @@ import org.apache.uima.jcas.JCas;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MedicalTermDetector implements Detector {
+public class DrugDetector implements Detector {
     private AnalysisEngine analysisEngine;
 
     @Inject
-    public MedicalTermDetector(AnalysisEngine analysisEngine) {
+    public DrugDetector(AnalysisEngine analysisEngine) {
         this.analysisEngine = analysisEngine;
     }
 
@@ -44,9 +44,7 @@ public class MedicalTermDetector implements Detector {
         }
         for(IdentifiedAnnotation entity : JCasUtil.select(jcas, IdentifiedAnnotation.class)){
             String type = entity.getType().toString();
-            if(type.contains("Medication") ||
-                    type.contains("SignSymptom") ||
-                    type.contains("DiseaseDisorder")
+            if(type.contains("Medication")
                     ) {
                 results.add(entity.getCoveredText());
             }

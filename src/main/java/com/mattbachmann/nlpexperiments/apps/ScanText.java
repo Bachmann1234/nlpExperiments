@@ -2,13 +2,9 @@ package com.mattbachmann.nlpexperiments.apps;
 
 import com.google.inject.Guice;
 import com.google.inject.Injector;
-import com.mattbachmann.nlpexperiments.detectors.DetectionException;
-import com.mattbachmann.nlpexperiments.detectors.Detector;
-import com.mattbachmann.nlpexperiments.detectors.LocationDetector;
-import com.mattbachmann.nlpexperiments.detectors.MedicalTermDetector;
-import com.mattbachmann.nlpexperiments.detectors.PersonDetector;
-import com.mattbachmann.nlpexperiments.modules.NLPModule;
+import com.mattbachmann.nlpexperiments.detectors.*;
 import com.mattbachmann.nlpexperiments.modules.CTAKESModule;
+import com.mattbachmann.nlpexperiments.modules.NLPModule;
 import com.mattbachmann.nlpexperiments.utils.TextUtils;
 
 import java.util.ArrayList;
@@ -23,7 +19,7 @@ public class ScanText {
         List<Detector> detectors = new ArrayList<>();
         detectors.add(injector.getInstance(LocationDetector.class));
         detectors.add(injector.getInstance(PersonDetector.class));
-        detectors.add(injector.getInstance(MedicalTermDetector.class));
+        detectors.add(injector.getInstance(DrugDetector.class));
 
         for(String arg : args) {
             System.out.println(String.format("Processing Text:\n%s", arg));

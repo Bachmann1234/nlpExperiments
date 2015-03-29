@@ -11,36 +11,25 @@ import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 
-public class MedicalTermDetectorTest {
-    private static Detector medicalTermDetector;
+public class DrugDetectorTest {
+    private static Detector drugDetector;
 
     @BeforeClass
     public static void setUp() {
         Injector injector = Guice.createInjector(
                 new CTAKESModule()
         );
-        medicalTermDetector = injector.getInstance(MedicalTermDetector.class);
+        drugDetector = injector.getInstance(DrugDetector.class);
     }
 
     @Test
     public void testMedicalDetector() throws Exception {
         List<String> expectedResults = Arrays.<String>asList(
-                "Nutrition",
-                "Hyperlipidemia",
-                "activity",
                 "Protein",
-                "cans",
-                "liquid",
-                "weight gain",
-                "plan",
-                "Resting",
-                "aspirin a",
-                "aspirin",
-                "knee pain",
-                "pain"
+                "aspirin"
         );
 
-        List<String> results = medicalTermDetector.findAll("Dr. Nutritious\n" +
+        List<String> results = drugDetector.findAll("Dr. Nutritious\n" +
                 " \n" +
                 "Medical Nutrition Therapy for Hyperlipidemia\n" +
                 "Referral from: Julie Tester, RD, LD, CNSD\n" +
