@@ -2,7 +2,7 @@ package com.mattbachmann.nlpexperiments.detectors;
 
 import com.google.inject.Guice;
 import com.google.inject.Injector;
-import com.mattbachmann.nlpexperiments.modules.CTAKESModule;
+import com.mattbachmann.nlpexperiments.modules.DrugModule;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
@@ -17,7 +17,7 @@ public class DrugDetectorTest {
     @BeforeClass
     public static void setUp() {
         Injector injector = Guice.createInjector(
-                new CTAKESModule()
+                new DrugModule()
         );
         drugDetector = injector.getInstance(DrugDetector.class);
     }
@@ -25,7 +25,7 @@ public class DrugDetectorTest {
     @Test
     public void testMedicalDetector() throws Exception {
         List<String> expectedResults = Arrays.<String>asList(
-                "Protein",
+                "date",
                 "aspirin"
         );
 
@@ -42,7 +42,7 @@ public class DrugDetectorTest {
                 "Pt has been on a 3-day calorie count and has had an average intake of 1100 calories.\n" +
                 "She was instructed to drink 2-3 cans of liquid supplement to help promote weight gain.\n" +
                 "She agrees with the plan and has my number for further assessment. May want a Resting\n" +
-                "Metabolic Rate as well. She takes an aspirin a day for knee pain.");
+                "Metabolic Rate as well. She takes an aspirin a day for knee pain. Today Active");
 
         assertEquals(expectedResults, results);
     }

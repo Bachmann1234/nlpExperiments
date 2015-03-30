@@ -3,7 +3,7 @@ package com.mattbachmann.nlpexperiments.apps;
 import com.google.inject.Guice;
 import com.google.inject.Injector;
 import com.mattbachmann.nlpexperiments.detectors.*;
-import com.mattbachmann.nlpexperiments.modules.CTAKESModule;
+import com.mattbachmann.nlpexperiments.modules.DrugModule;
 import com.mattbachmann.nlpexperiments.modules.NLPModule;
 import com.mattbachmann.nlpexperiments.utils.TextUtils;
 
@@ -14,7 +14,7 @@ public class ScanText {
     public static void main(String[] args) throws DetectionException {
         Injector injector = Guice.createInjector(
                 new NLPModule(),
-                new CTAKESModule()
+                new DrugModule()
         );
         List<Detector> detectors = new ArrayList<>();
         detectors.add(injector.getInstance(LocationDetector.class));

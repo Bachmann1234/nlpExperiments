@@ -1,23 +1,19 @@
 package com.mattbachmann.nlpexperiments.detectors;
 
 import com.google.inject.Inject;
-import org.apache.ctakes.typesystem.type.textsem.IdentifiedAnnotation;
-import org.apache.uima.UIMAException;
-import org.apache.uima.analysis_engine.AnalysisEngine;
-import org.apache.uima.fit.factory.JCasFactory;
-import org.apache.uima.fit.pipeline.SimplePipeline;
-import org.apache.uima.fit.util.JCasUtil;
-import org.apache.uima.jcas.JCas;
+import com.google.inject.name.Named;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
 
 public class DrugDetector implements Detector {
-    private AnalysisEngine analysisEngine;
+
+    Set<String> drugNames;
 
     @Inject
-    public DrugDetector(AnalysisEngine analysisEngine) {
-        this.analysisEngine = analysisEngine;
+    public DrugDetector(@Named("drugNames") Set drugNames) {
+        this.drugNames = drugNames;
     }
 
     @Override
@@ -28,27 +24,11 @@ public class DrugDetector implements Detector {
     @Override
     public List<String> findAll(String text) throws DetectionException {
         List<String> results = new ArrayList<>();
-        JCas jcas;
-        try {
-            jcas = JCasFactory.createJCas();
-        } catch (UIMAException e) {
-            throw new DetectionException("Failed to create document container", e);
-        }
-        jcas.setDocumentText(text);
-
-
-        try {
-            SimplePipeline.runPipeline(jcas, analysisEngine);
-        } catch (Exception e) {
-            throw new DetectionException("Failed to run pipeline", e);
-        }
-        for(IdentifiedAnnotation entity : JCasUtil.select(jcas, IdentifiedAnnotation.class)){
-            String type = entity.getType().toString();
-            if(type.contains("Medication")
-                    ) {
-                results.add(entity.getCoveredText());
+        String[] tokens = text.toLowerCase().split("\\s+");
+        for(String token : tokens) {
+            if(drugNames.contains(token)) {
+                results.add(token);
             }
-
         }
         return results;
     }

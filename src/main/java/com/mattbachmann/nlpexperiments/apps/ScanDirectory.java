@@ -5,14 +5,11 @@ import com.google.inject.Injector;
 import com.mattbachmann.nlpexperiments.detectors.*;
 import com.mattbachmann.nlpexperiments.extraction.ExtractionException;
 import com.mattbachmann.nlpexperiments.extraction.TextExtractor;
-import com.mattbachmann.nlpexperiments.modules.CTAKESModule;
+import com.mattbachmann.nlpexperiments.modules.DrugModule;
 import com.mattbachmann.nlpexperiments.modules.NLPModule;
 import com.mattbachmann.nlpexperiments.utils.TextUtils;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.filefilter.TrueFileFilter;
-import org.apache.log4j.Level;
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -26,16 +23,10 @@ public class ScanDirectory {
             System.out.println("I only take one arg, which is the path of the directory to scan");
             return;
         }
-        //Disable the model logging because its noisy and I dont care for right now
-        List<Logger> loggers = Collections.<Logger>list(LogManager.getCurrentLoggers());
-        loggers.add(LogManager.getRootLogger());
-        for ( Logger logger : loggers ) {
-            logger.setLevel(Level.OFF);
-        }
         System.out.println("Initializing models");
         Injector injector = Guice.createInjector(
                 new NLPModule(),
-                new CTAKESModule()
+                new DrugModule()
         );
         List<Detector> detectors = new ArrayList<>();
         detectors.add(injector.getInstance(LocationDetector.class));
@@ -59,14 +50,14 @@ public class ScanDirectory {
         List<String> matches = new ArrayList<>();
         List<List<String>> csvResults = new ArrayList<>();
         System.out.println(String.format("Scanning %s files", files.size()));
-        files.forEach(f -> {
+        new ArrayList<>(files).subList(0, 10000).forEach(f -> {
             try {
                 System.out.print(".");
                 String textToScan = TextExtractor.extractText(f);
                 Map<String, List<String>> results = TextUtils.extractMatchesFromText(detectors, textToScan);
                 matches.add(
                         String.format(
-                                "%s | %s : %s - %s : %s - %s - %s",
+                                "%s | %s : %s - %s : %s - %s - %s\n",
                                 f.getAbsolutePath(),
                                 personLabel, results.get(personLabel),
                                 locationLabel, results.get(locationLabel),
