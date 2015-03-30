@@ -38,11 +38,11 @@ public class ScanDirectory {
         String medicalLabel = detectors.get(2).getLabel();
 
         System.out.println("Collecting files");
-        Collection<File> files = FileUtils.listFiles(
+        List<File> files = new ArrayList<>(FileUtils.listFiles(
                 new File(args[0]),
                 TrueFileFilter.INSTANCE,
                 TrueFileFilter.INSTANCE
-        );
+        ));
 
         //After we got our files and the startup, start our timer
         System.out.println("Starting timer");
@@ -50,9 +50,12 @@ public class ScanDirectory {
         List<String> matches = new ArrayList<>();
         List<List<String>> csvResults = new ArrayList<>();
         System.out.println(String.format("Scanning %s files", files.size()));
-        new ArrayList<>(files).subList(0, 10000).forEach(f -> {
+        for(int i = 0; i < files.size(); i++) {
+            if(i % 1000 == 0) {
+                System.out.println(i);
+            }
+            File f = files.get(i);
             try {
-                System.out.print(".");
                 String textToScan = TextExtractor.extractText(f);
                 Map<String, List<String>> results = TextUtils.extractMatchesFromText(detectors, textToScan);
                 matches.add(
@@ -82,7 +85,7 @@ public class ScanDirectory {
                 );
             }
 
-        });
+        }
         System.out.println();
         Long endTime = System.currentTimeMillis();
         System.out.println(String.format("Time to run %s", (endTime - startTime)));
