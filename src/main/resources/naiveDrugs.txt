@@ -1,3352 +1,2048 @@
-.alpha.-amylcinnamaldehyde
-.alpha.-hexylcinnamaldehyde
-.alpha.-tocopherol
-.beta.-bisabolol
-.beta.-carotene
-.beta.-d-galactose
-.gamma.-cyclodextrin
-.gamma.-decalactone
-1,1,2,2-tetrafluoroethane
-1,1-difluoroethane
-1,10-decanediol
-1,2,6-hexanetriol
-1,2-diarachidoyl-sn-glycero-3-phosphocholine
-1,2-dimyristoyl-sn-glycero-3-(phospho-rac-(1-glycerol))
-1,2-dioleoyl-sn-glycero-3-phosphocholine
-1,2-dipalmitoyl-sn-glycero-3-(phospho-rac-(1-glycerol))
-1,2-distearoyl-sn-glycero-3-phosphocholine
-1,2-distearoyllecithin
-1,2-hexanediol
-1,2-octanediol
-1,3-dichloro-2-propanol
-1,3-dimethylol-5,5-dimethyl-hydantoin
-1,3-dimethylol-5,5-dimethylhydantoin
-1,3-propanediol
-1,4-sorbitan
-1,5-pentanediol
-1-butanol
-1-butene
-1-decene
-1-methyl-2-pyrrolidinone
-1-myristylpicolinium
-1-octacosanol
-1-octanol
-1-palmitoyl-2-oleoyl-sn-glycero-3-(phospho-rac-(1-glycerol))
-1-propanol
-1-propoxy-2-propanol
-1-vinyl-2-pyrrolidone
-2,2,4,4,6,8,8-heptamethylnonane
-2,5-di-tert-pentylhydroquinone
-2,5-dimethylisosorbide
-2-acetyltributylcitrate
-2-amino-2-methyl-1-propanol
-2-diethylaminoethanol
-2-ethoxyethanol
-2-ethylaminoethanol
-2-methyl-4-isothiazolin-3-one
-2-n-octyl-4-isothiazolin-3-one
-2-phenylphenol
-2-propoxy-1-propanol
-2-pyrrolidone
-2-tert-butylhydroquinone
-3,7-dimethyl-1-octanol
-3,7-dimethyloctanal
-3-((l-menthyl)oxy)propane-1,2-diol
-3-(triethoxysilyl)propylamine
-3-iodo-1-propanol
-3-iodo-2-propynylbutylcarbamate
-4-((4,6-bis(octylthio)-1,3,5-triazin-2-yl)amino)-2,6-bis(1,1-dimethylethyl)-phenol
-4-aminobenzoate
-4-way
-5-chloro-2-methyl-4-isothiazolin-3-one
-5-hydroxytryptophan
-7-dehydrocholesterol
 8-mop
-a-25
 a-hydrocort
 a-methapred
-a-phedrin
-abacavir
-abarelix
-abatacept
-abciximab
+abacavir sulfate
+abacavir sulfate, lamivudine and zidovudine
 abelcet
 abilify
-abiraterone
-abobotulinumtoxina
+abilify maintena kit
+ablavar
 abraxane
-abreva
-absorbine
 absorica
 abstral
-acacia
-acai
-acam2000
-acamprosate
+acamprosate calcium
 acanya
 acarbose
 accolate
 accuneb
 accupril
 accuretic
-acebutolol
-acemannan
-acenocoumarol
+acebutolol hydrochloride
 aceon
-acephen
-acepromazine
-acesulfame
 acetadote
-acetadrink
-acetadryl
-acetaldehyde
-acetaminophen
-acetanilide
-acetate
+acetaminophen and codeine phosphate
+acetasol hc
 acetazolamide
-acetone
-acetophenazine
-acetylcarnitine
-acetylcellulose
-acetylcholine
+acetazolamide sodium
+acetic acid
+acetic acid 0.25% in plastic container
+acetic acid 2% in aqueous aluminum acetate
 acetylcysteine
-acetylglucosamine
+achromycin v
 aciphex
-acipimox
+aciphex sprinkle
 acitretin
-aclaro
-aclidinium
-aclovate
-acne-clear
-acnevir
-acnomel
-acnotex
-acrisorcin
-acrivastine
-acrylamide
-actamin
-actemra
-acthar
-acthib
+acova
 acthrel
-acticin
 acticlate
-actidose
 actigall
-actimmune
 actiq
-activase
+activella
 actonel
+actoplus met
+actoplus met xr
 actos
 acular
+acular ls
 acuvail
 acyclovir
+acyclovir in sodium chloride 0.9% preservative free
+acyclovir sodium
 aczone
-adacel
 adagen
-adalat
-adalimumab
+adalat cc
 adapalene
 adasuve
-adcetris
 adcirca
-adderall
-adefovir
+adderall xr 10
+adderall xr 15
+adderall xr 20
+adderall xr 25
+adderall xr 30
+adderall xr 5
+adefovir dipivoxil
 adempas
 adenocard
 adenoscan
 adenosine
 adipex-p
-adoxa
 adrenaclick
 adrenalin
-adriamycin
-adrucil
-advair
-advate
+adreview
+advair diskus 100/50
+advair diskus 250/50
+advair diskus 500/50
+advair hfa
 advicor
-advil
-aerobid
-aerohist
-aerospan
-afatinib
+aerospan hfa
+afeditab cr
 afinitor
-aflibercept
+afinitor disperz
 afrezza
-afrin
-aftate
-agar
 aggrastat
 aggrenox
 agrylin
-air
-airacof
-ak-con
-ak-pentolate
+ak-fluor 10%
+ak-fluor 25%
+akbeta
 akineton
-aknemycin
+akne-mycin
+akpentolate
 akten
+aktob
 akynzeo
 ala-cort
-ala-quin
 ala-scalp
-alagesic
-alanine
-alatrofloxacin
-alavert
-alaway
-albendazole
 albenza
-albiglutide
-albuked
-albumin-alpine
-albuminar-20
-albuminar-25
-albuminar-5
-alburx
-albutein
-albuterol
-alcaftadine
+albuterol sulfate
+albuterol sulfate and ipratropium bromide
 alcaine
-alclometasone
-alcohol
-alcortin
+alclometasone dipropionate
+alcohol 10% and dextrose 5%
+alcohol 5% and dextrose 5%
 aldactazide
 aldactone
 aldara
-aldesleukin
-aldex
-aldioxa
-aldroxicon
-aldurazyme
-alefacept
-alemtuzumab
-alendronate
-alera
-alevazol
-aleve
-aleve-d
-alfacalcidol
-alfadex
+alendronate sodium
 alfenta
 alfentanil
-alfuzosin
-algal-900
-algeldrate
-alginate
-alglucerase
-aliclen
-align
+alfuzosin hydrochloride
 alimta
 alinia
-aliskiren
-alitretinoin
-alka-mints
-alka-seltzer
 alkeran
-all-trans-retinol
-allantoin
 allegra
-allegra-d
-aller-chlor
-aller-tec
-allerclear
-allerest
-allerhist-1
-allermax
-allernaze
-alli
 allopurinol
-allspice
-almacone
-almagate
-almasilate
-almond
-almotriptan
+allopurinol sodium
 alocril
-alodox
-aloe
-alogliptin
 alomide
 aloprim
-aloquin
 alora
-alosetron
 aloxi
-alpha-arbutin
-alpha-cyclodextrin
-alpha-hexylcinnamaldehyde
-alpha-isomethylionone
-alpha-tocopherol
-alphagan
-alphanate
-alphanine
-alphaprodine
+alphagan p
 alprazolam
-alprolix
 alprostadil
 alrex
-alseroxylon
 alsuma
 altabax
-altacaine
 altace
-altafed
-altamist
-altazine
-alteplase
+altavera
 altoprev
-altrenogest
-altretamine
-aluminum
-alupent
-aluvea
 alvesco
-alvimopan
-amantadine
+alyacen 1/35
+alyacen 7/7/7
+amantadine hydrochloride
 amaryl
-ambenonium
 ambien
-ambifed-g
+ambien cr
 ambisome
-ambrisentan
 amcinonide
 amerge
-americaine
 amicar
 amidate
 amifostine
-amikacin
-amiloride
-aminacrine
-amino-cerv
-aminocaproate
-aminoglutethimide
-aminolevulinate
-aminomethylpropanol
-aminometradine
-aminopentamide
+amikacin sulfate
+amiloride hydrochloride
+amiloride hydrochloride and hydrochlorothiazide
+amino acids
+aminoacetic acid 1.5% in plastic container
+aminocaproic
+aminocaproic acid
+aminocaproic acid in plastic container
 aminophylline
-aminopromazine
-aminosalicylate
-aminothiazole
-amiodarone
+aminosyn 10%
+aminosyn 10% (ph6)
+aminosyn 3.5%
+aminosyn 3.5% m
+aminosyn 5%
+aminosyn 7%
+aminosyn 7% (ph6)
+aminosyn 7% w/ electrolytes
+aminosyn 8.5%
+aminosyn 8.5% (ph6)
+aminosyn 8.5% w/ electrolytes
+aminosyn ii 10%
+aminosyn ii 10% in plastic container
+aminosyn ii 10% w/ electrolytes
+aminosyn ii 15% in plastic container
+aminosyn ii 7%
+aminosyn ii 8.5%
+aminosyn ii 8.5% w/ electrolytes
+aminosyn-hbc 7%
+aminosyn-hf 8%
+aminosyn-pf 10%
+aminosyn-pf 7%
+aminosyn-rf 5.2%
+amiodarone hydrochloride
 amitiza
-amitraz
-amitriptyline
-amlactin
-amlexanox
-amlodipine
-ammonia
+amitriptyline hydrochloride
+amlodipine besylate
+amlodipine besylate and atorvastatin calcium
+amlodipine besylate and benazepril hydrochloride
+amlodipine besylate and valsartan
+amlodipine,valsartan and hydrochlorothiazide
+ammonia n 13
+ammonium chloride in plastic container
+ammonium lactate
 ammonul
 amnesteem
-amobarbital
-amonafide
-amoproxan
 amoxapine
 amoxicillin
-amoxicot
+amoxicillin and clavulanate potassium
+amoxicillin pediatric
 amoxil
 amphadase
-amphetamine
+amphetamine asp amphetamine sulf dextroamphet saccharate & dextr sulf
+amphetamine sulfate
 amphotec
-ampicillin
-amprenavir
+amphotericin b
+ampicillin and sulbactam
+ampicillin sodium
+ampicillin trihydrate
 ampyra
+amrinone lactate
 amrix
-amsacrine
 amturnide
-amvisc
-amylases
-amylopectin
-ana-lex
-anabar
-anacaine
-anacin
+amyvid
+an-dtpa
+an-sulfur colloid
 anadrol-50
 anafranil
-anagrelide
-anakinra
+anagrelide hydrochloride
 anaprox
-anascorp
-anasept
-anaspaz
+anaprox ds
 anastrozole
-anbesol
+ancef in plastic container
 ancobon
 androderm
 androgel
-android
-androxy
-anecream
+android 10
+android 25
 anectine
-anestacaine
-anestacon
-anestafoam
-anethole
+anexsia 5/325
+anexsia 7.5/325
+angeliq
 angiomax
-anhydroxylitol
-anidulafungin
-animi-3
-anise
-anisindione
-anisotropine
-anistreplase
-annatto
-anoro
+anoro ellipta
 ansaid
 antabuse
-antara
-antazoline
-anthralin
-antiflex
-antipyrine
-antivert
+antara (micronized)
 antizol
-anturol
-anucort-hc
+anusol hc
 anzemet
-apaflurane
-apexicon
-aphedrid
-aphthasol
 apidra
-apigenin
-apixaban
+apidra solostar
 aplenzin
-aplisol
 apokyn
-apomorphine
-appearex
-apple
-apra
-apraclonidine
-apremilast
+apraclonidine hydrochloride
 aprepitant
-apresoline
-apricot
 apriso
-aprotinin
 aptiom
 aptivus
-aqua-ban
-aquacot
-aquafresh
-aquamephyton
-aquaphor
-aralast
-aranesp
+aquasol a
+aralen
+aranelle
 arava
-arbinoxa
-arbutin
-arcalyst
-arcapta
-ardeparin
+arcapta neohaler
 arestin
-arformoterol
 argatroban
-arginine
-argipressin
+argatroban in 0.9% sodium chloride
+argatroban in sodium chloride
 aricept
+aricept odt
 arimidex
-aripiprazole
 aristospan
 arixtra
-arkaliox
-arlex
-armodafinil
-arnuity
-aromadendrin
+arnuity ellipta
 aromasin
 arranon
-artemether
 arthrotec
-articadent
-articaine
-artichoke
-artiss
-arzerra
+articaine hydrochloride and epinephrine bitartrate
 asacol
-asafetida
-ascarel
+asacol hd
 asclera
-ascomp
-ascriptin
-asenapine
-asmanex
-asparaginase
-asparagine
-asparagus
-aspartame
-aspartate
-asper-flex
-aspercreme
-asperdrink
-aspir-low
-aspirin
-astagraf
-astaxanthin
+ashlyna
+asmanex hfa
+asmanex twisthaler
+aspirin and dipyridamole
+astagraf xl
 astelin
-astemizole
 astepro
-asthmanefrin
-astramorph
-astringyn
+astramorph pf
 atacand
-atarax
-atazanavir
+atacand hct
+atazanavir sulfate
+atelvia
 atenolol
-atgam
+atenolol and chlorthalidone
 ativan
-atomoxetine
-atorvastatin
+atorvastatin calcium
 atovaquone
-atrac-tain
-atracurium
+atovaquone and proguanil hydrochloride
+atracurium besylate
+atracurium besylate preservative free
 atralin
 atridox
 atripla
 atropen
-atropine
+atropine sulfate
+atropine sulfate ansyr plastic syringe
 atrovent
-atryn
-attapulgite
-attenuvax
+atrovent hfa
 aubagio
-augmentin
-auralgan
-auranofin
-auraphene-b
-aurodex
-auroguard
-aurothiomalate
+augmentin '125'
+augmentin '200'
+augmentin '250'
+augmentin '400'
+augmentin '500'
+augmentin '875'
+augmentin es-600
+augmentin xr
 auryxia
 auvi-q
 avage
-availnex
 avalide
-avanafil
 avandamet
 avandaryl
 avandia
 avapro
-avar
-avastin
+avc
 aveed
 avelox
-avidoxy
+avelox in sodium chloride 0.8% in plastic container
+aviane-28
 avinza
 avita
-avobenzone
-avocado
 avodart
-avonex
+avycaz
 axert
 axid
 axiron
-axitinib
-axsain
 aygestin
 azacitidine
 azactam
+azactam in plastic container
 azasan
 azasite
-azatadine
 azathioprine
-azelastine
-azelate
+azathioprine sodium
+azelastine hydrochloride
 azelex
-azficel-t
 azilect
-azilsartan
 azithromycin
-azlocillin
-azmacort
-azo-cranberry
-azo-gesic
 azopt
 azor
 aztreonam
 azulfidine
-b-3-50
-b-caro-t
-b-natal
-b3-500-gr
-babybig
-bacampicillin
-baci-im
-baciguent
+azulfidine en-tabs
+baciim
 bacitracin
-backprin
+bacitracin zinc and polymyxin b sulfate
+bacitracin-neomycin-polymyxin w/ hydrocortisone acetate
 baclofen
-bactine
+bacteriostatic sodium chloride 0.9% in plastic container
+bacteriostatic water for injection in plastic container
+bactocill in plastic container
 bactrim
+bactrim ds
 bactroban
-bakuchiol
-balmex
-balnetar
-balsalazide
-banadyne
-banalg
-banana
-banophen
+bal
+balanced salt
+balsalazide disodium
+balziva-28
 banzel
 baraclude
-baridium
-barium
-barley
-barri-care
-basil
-basiliximab
-baycadron
-baygam
-baza
-baza-protect
-bazedoxifene
-beano
-bebulin
-becaplermin
-beclomethasone
-beclovent
-beconase
-bedaquiline
-bedside-care
-beef
-beegentle
-beelith
-beeswax
-beet
-beheneth-10
-belatacept
+beconase aq
 beleodaq
-belimumab
-belinostat
 belsomra
 belviq
-benadryl
-benazepril
-benazeprilat
-bendamustine
-bendroflumethiazide
-benefiber
-benefix
-bengay
+benazepril hydrochloride
+benazepril hydrochloride and hydrochlorothiazide
 benicar
-benlysta
-benoquin
-benoxinate
-benoxyl
-benphothiamine
-bensal
-benserazide
-bentiromide
-bentonite
-bentoquatam
+benicar hct
 bentyl
-benylin
-benz-all
-benz-o-sthetic
-benzac
+bentyl preservative free
 benzaclin
-benzacot
-benzaldehyde
-benzalkonium
 benzamycin
-benzedrex
-benzefoam
-benzepro
-benzethonium
-benzo-jel
-benzoate
-benzocaine
-benzodent
-benzoin
+benzamycin pak
 benzonatate
-benzophenone
-benzophenone-5
-benzphetamine
-benzthiazide
-benztropine
-benzydamine
-bepotastine
+benzphetamine hydrochloride
+benztropine mesylate
 bepreve
-bepridil
-beractant
-berberine
-berinert
-berri-freez
-berry
-besifloxacin
 besivance
-beta-bisabolol
-beta-d-galactopyranose
-beta-d-glucopyranose
-beta-hc
-betadex
+beta-val
 betadine
 betagan
-betahistine
-betaine
-betamethasone
+betamethasone acetate and betamethasone sodium phosphate
+betamethasone dipropionate
+betamethasone valerate
 betapace
-betasal
-betasept
-betaseron
-betasizofiran
-betavent
-betaxolol
-bethanechol
+betapace af
+betaxolol hydrochloride
+bethanechol chloride
 bethkis
-betiatide
 betimol
 betoptic
-bevacizumab
-bexarotene
-bexsero
-bextra
-bezafibrate
-bht
+betoptic s
+beyaz
 biaxin
 bicalutamide
-bicarsim
-bicillin
-bicisate
-biclora
-biclora-d
+bicillin c-r
+bicillin c-r 900/300
+bicillin l-a
 bicnu
-bidex
 bidil
-bifera
-biferarx
-bifonazole
-bilberry
 biltricide
 bimatoprost
 binosto
-bio-statin
-bio-throid
-bioflavonoids
-bioflexor
-biofreeze
-biogaia
-biolon
-bionect
-biothrax
-biotin
-biotussin
-biperiden
-bisabolol
-bisac-evac
-bisacodyl
-bisco-lax
-bismarex
-bismuth
-bismuth-formic-iodide
-bisoprolol
-bitolterol
-bivalirudin
-bivigam
-blackberry
-bleomycin
+bisoprolol fumarate
+bisoprolol fumarate and hydrochlorothiazide
+bleomycin sulfate
 bleph-10
 blephamide
-blinatumomab
-blincyto
-blis-to-sol
-blistex
+blephamide s.o.p.
 bloxiverz
-blue-emu
-blueberry
-bluefish
-boceprevir
-boil-ease
-bonine
 boniva
-bontril
-boostrix
-borneol
-borofair
-boroleum
-boron
-bortezomib
-bosentan
+bontril pdm
 bosulif
-bosutinib
-botox
-bran
-branchamin
 bravelle
-breo
-brethine
-bretylium
+breo ellipta
+bretylium tosylate in dextrose 5% in plastic container
 brevibloc
-brevital
-brevoxyl
+brevibloc double strength in plastic container
+brevibloc in plastic container
+brevicon 28-day
+brevital sodium
+briellyn
 brilinta
-brimonidine
+brimonidine tartrate
 brintellix
-brinzolamide
 brisdelle
-broccoli
-bromax
-bromazepam
 bromday
-bromelains
-bromfed
-bromfenac
-bromhexine
-bromocriptine
-bromotheophylline
-brompheniramine
-broncotron
-bronkaid
-bronopol
-brontex
+bromfed-dm
+bromfenac sodium
+bromocriptine mesylate
+brompheniramine maleate, pseudoephedrine hydrochloride and dextromethorphan hydrobromide
 brovana
-bucalcide
-bucalsep
-buchu
-buckwheat
-buclizine
-budeprion
+bss
+bss plus
 budesonide
-bufferin
 bumetanide
-bumex
-buminate
 bunavail
-bupap
 buphenyl
-bupivacaine
+bupivacaine hydrochloride
+bupivacaine hydrochloride and epinephrine
+bupivacaine hydrochloride preservative free
+bupivacaine hydrochloride w/epinephrine
 buprenex
-buprenorphine
-buproban
-bupropion
-buspar
-buspirone
-busulfan
+buprenorphine hydrochloride
+buprenorphine hydrochloride and naloxone hydrochloride
+bupropion hydrochloride
+buspirone hydrochloride
 busulfex
-butabarbital
-butalbital
-butamben
-butane
-butenafine
-buteth-3
-butisol
-butoconazole
-butorphanol
+butalbital and acetaminophen
+butalbital, acetaminophen and caffeine
+butalbital, acetaminophen, caffeine and codeine phosphate
+butalbital, aspirin and caffeine
+butalbital, aspirin, caffeine, and codeine phosphate
+butapap
+butisol sodium
+butoconazole nitrate
+butorphanol tartrate
+butorphanol tartrate preservative free
 butrans
-butylparaben
 bydureon
 byetta
 bystolic
-c-500-gr
-c-time
-cabazitaxel
-cabbage
+c-solve-2
 cabergoline
-cabozantinib
 caduet
 cafcit
 cafergot
-caffeine
-cal-quick
-calaclear
-caladryl
-calagel
-calagesic
-calamine
+caffeine citrate
 calan
-calazime
-calcarb
-calcet
-calci-chew
-calci-mix
-calcidol
-calcifediol
+calan sr
 calcijex
-calcionate
 calcipotriene
-calcitrene
+calcipotriene and betamethasone dipropionate
+calcitonin-salmon
 calcitriol
-calcium
-caldecort
-caldesene
+calcium acetate
+calcium chloride 10% in plastic container
+calcium disodium versenate
 caldolor
-calfactant
-calgonate
-calmodrox
-calmol
-calphron
-caltrate
 cambia
-campath
-campesterol
-campho-phenique
-camphor
+camila
 campral
 camptosar
-canagliflozin
-canakinumab
 canasa
 cancidas
-candesartan
-cank-oxide
-cantaloupe
-cantharidin
+candesartan cilexetil
+candesartan cilexetil and hydrochlorothiazide
 cantil
-capacet
-capastat
+capastat sulfate
 capecitabine
 capex
+capital and codeine
 capoten
-capozide
 caprelsa
-capreomycin
-capsaicin
-capsicum
-capsin
-captan
 captopril
-capzasin-hp
-capzasin-p
+captopril and hydrochlorothiazide
 carac
 carafate
-caramel
-caraway
-carb-o-lac
-carbachol
 carbaglu
 carbamazepine
-carbamoylcholine
-carbarson
-carbastat
 carbatrol
-carbatuss-cl
-carbenicillin
-carbetapentane
 carbidopa
-carbimazole
-carbinoxamine
+carbidopa and levodopa
+carbidopa, levodopa and entacapone
+carbinoxamine maleate
 carbocaine
-carbocysteine
-carbocysteine-lysine
-carbomer-934
-carbomer-940
-carbomer-974p
 carboplatin
-carboprost
-carboxymethylcellulose
-carbromal
 cardene
+cardene in 0.83% sodium chloride in plastic container
+cardene in 0.86% sodium chloride in plastic container
+cardene in 4.8% dextrose in plastic container
+cardene in 5.0% dextrose in plastic container
+cardiogen-82
+cardiolite
+cardioplegic in plastic container
 cardizem
+cardizem cd
+cardizem la
 cardura
-care-creme
-carfilzomib
-carimune
+cardura xl
 carisoprodol
-carlesta
-carmoisine
-carmol
-carmol-20
-carmustine
+carisoprodol and aspirin
+carisoprodol, aspirin and codeine phosphate
 carnitor
-carnosine
-carob
-carprofen
-carrageenan
-carrot
-carteolol
-cartia
-carticel
-cartilade
+carnitor sf
+carteolol hydrochloride
+cartia xt
 carvedilol
-caryophyllene
-casanthranol
-casein
-cashew
 casodex
-caspofungin
 cataflam
-catalase
-catalina
 catapres
 catapres-tts-1
 catapres-tts-2
 catapres-tts-3
-cauliflower
 caverject
-cavirinse
-cayenne
+caverject impulse
 cayston
-ceclor
 cedax
-ceenu
 cefaclor
 cefadroxil
-cefamandole
-cefazolin
+cefazolin and dextrose
+cefazolin sodium
 cefdinir
-cefditoren
-cefepime
-cefixime
-cefizox
-cefmetazole
-cefonicid
-cefoperazone
-cefotan
+cefepime and dextrose in duplex container
+cefepime hydrochloride
+cefepime in plastic container
 cefotaxime
+cefotaxime sodium
 cefotetan
+cefotetan and dextrose in duplex container
 cefoxitin
-cefpodoxime
+cefoxitin and dextrose in duplex container
+cefpodoxime proxetil
 cefprozil
-ceftaroline
 ceftazidime
-ceftibuten
+ceftazidime in dextrose container
 ceftin
-ceftiofur
-ceftizoxime
-ceftolozane
 ceftriaxone
-cefuroxime
-cefzil
+ceftriaxone and dextrose in duplex container
+ceftriaxone in plastic container
+cefuroxime and dextrose in duplex container
+cefuroxime axetil
+cefuroxime sodium
 celebrex
 celecoxib
-celery
-celestone
+celestone soluspan
 celexa
-cellacefate
 cellcept
-cellugel
-cellulose
 celontin
-cem-urea
 cenestin
-cenolate
 centany
-centergy
-centussin
-ceo-two
-cepacol
-cepastat
-cephadyn
 cephalexin
-cephradine
-ceprotin
-ceraxon
 cerdelga
 cerebyx
-ceresin
+ceretec
 cerezyme
-ceritinib
-certeareth-100
-certuss
 cerubidine
-cerumenex
-cervarix
 cervidil
 cesamet
-cetacaine
-cetafen
 cetamide
-ceteareth-100
-ceteareth-12
-ceteareth-15
-ceteareth-20
-ceteareth-25
-ceteareth-30
-ceteareth-33
-ceteareth-6
-ceteareth-8
-ceteth-10
-ceteth-2
-ceteth-20
-ceteth-23
-ceteth-7
-cetirizine
+cetirizine hydrochloride
 cetraxal
-cetrimide
-cetrimides
-cetrorelix
 cetrotide
-cetuximab
-cetylpyridinium
 cevimeline
-chamomile
+cevimeline hydrochloride
 chantix
-char-flo
 chemet
-chenodal
-chenodeoxycholate
 chenodiol
-cheratussin
-cherry
-chicken
-chickpea
 chirhostim
-chitosan
-chlo-amine
-chlophedianol
-chlor-phen
-chlor-trimeton
-chlorambucil
-chloramphenicol
-chloraseptic
-chlorcyclizine
-chlordiazepoxide
-chlorhexidine
-chlorine
-chlormethiazole
-chlorobutanol
-chlorocresol
-chloroform
-chloromag
-chloromycetin
-chlorophyll
-chlorophyllin
-chloroprocaine
-chloropropylate
-chloroquine
+chloramphenicol sodium succinate
+chlordiazepoxide and amitriptyline hydrochloride
+chlordiazepoxide hydrochloride
+chlorhexidine gluconate
+chloroprocaine hydrochloride
+chloroquine phosphate
 chlorothiazide
-chlorothymol
-chlorotrianisene
-chloroxine
-chloroxylenol
-chlorphenesin
-chlorpheniramine
-chlorpromazine
+chlorothiazide sodium
+chlorpromazine hydrochloride
 chlorpropamide
-chlorprothixene
-chlortetracycline
 chlorthalidone
-chlortheophylline
 chlorzoxazone
-chocolate
-cholecalciferol
-cholesterol
+cholac
+choledyl sa
 cholestyramine
-choleth-20
-choline
-chooz
-chromelin
-chromium
-chrysin
-chymotrypsin
+cholestyramine light
+choletec
+choline c-11
+cholografin meglumine
+chorionic gonadotropin
+chromic chloride in plastic container
 cialis
-ciclesonide
-ciclodan
 ciclopirox
-cidaflex
 cidofovir
-cilastatin
-cilazapril
 cilostazol
 ciloxan
 cimetidine
-cimzia
-cinacalcet
-cinchocaine
-cineole
-cinnamaldehyde
-cinnamedrine
-cinnamon
-cinoxate
-cinryze
+cimetidine hydrochloride
 cipro
+cipro hc
+cipro in dextrose 5% in plastic container
 ciprodex
 ciprofloxacin
-cisapride
-cisatracurium
+ciprofloxacin extended release
+ciprofloxacin hydrochloride
+ciprofloxacin in dextrose 5% in plastic container
+cis-mdp
+cis-pyro
+cisatracurium besylate
+cisatracurium besylate preservative free
 cisplatin
-citalopram
-citanest
-citicoline
-citral
-citrate
-citroma
-citrucel
-citrulline
+citalopram hydrobromide
+citanest forte dental
 cladribine
 claforan
+claforan in dextrose 5% in plastic container
 claravis
-clarifoam
 clarinex
-clarinex-d
-claris
+clarinex d 24 hour
+clarinex-d 12 hour
 clarithromycin
-claritin
-claritin-d
-clarus
-clavulanate
-clearasil
-clearcanal
-clearlax
-clearplex
-clearskin
-cleeravue-m
-clemastine
-clenbuterol
-clenia
-clenz-lyte
+clemastine fumarate
 cleocin
-cleocin-t
-clevidipine
+cleocin hydrochloride
+cleocin phosphate
+cleocin phosphate in dextrose 5% in plastic container
+cleocin t
 cleviprex
-clidinium
 climara
-clinacort
+climara pro
 clinda-derm
-clindacin
 clindagel
-clindamax
-clindamycin
-clindareach
+clindamycin hydrochloride
+clindamycin palmitate hydrochloride
+clindamycin phosphate
+clindamycin phosphate and benzoyl peroxide
+clindamycin phosphate in 5% dextrose in plastic container
+clindamycin phosphate in dextrose 5%
 clindesse
 clindets
-clinidine
-clioquinol
-clobazam
-clobetasol
+clinimix 2.75/10 sulfite free in dextrose 10% in plastic container
+clinimix 2.75/25 sulfite free in dextrose 25% in plastic container
+clinimix 2.75/5 sulfite free in dextrose 5% in plastic container
+clinimix 4.25/10 sulfite free in dextrose 10% in plastic container
+clinimix 4.25/20 sulfite free in dextrose 20% in plastic container
+clinimix 4.25/25 sulfite free in dextrose 25% in plastic container
+clinimix 4.25/5 sulfite free in dextrose 5% in plastic container
+clinimix 5/10 sulfite free in dextrose 10% in plastic container
+clinimix 5/15 sulfite free in dextrose 15% in plastic container
+clinimix 5/20 sulfite free in dextrose 20% in plastic container
+clinimix 5/25 sulfite free in dextrose 25% in plastic container
+clinimix 5/35 sulfite free in dextrose 35% in plastic container
+clinimix e 2.75/10 sulfite-free w/ elect in dextrose 10% w/ calcium in plastic container
+clinimix e 2.75/25 sulfite-free w/ elect in dextrose 25% w/ calcium in plastic container
+clinimix e 2.75/5 sulfite-free w/ elect in dextrose 5% w/ calcium in plastic container
+clinimix e 4.25/10 sulfite-free w/ elect in dextrose 10% w/ calcium in plastic container
+clinimix e 4.25/20 sulfite-free w/ elect in dextrose 20% w/ calcium in plastic container
+clinimix e 4.25/25 sulfite-free w/ elect in dextrose 25% w/ calcium in plastic container
+clinimix e 4.25/5 sulfite-free w/ elect in dextrose 5% w/ calcium in plastic container
+clinimix e 5/10 sulfite-free w/ elect in dextrose 10% w/ calcium in plastic container
+clinimix e 5/15 sulfite-free w/ elect in dextrose 15% w/ calcium in plastic container
+clinimix e 5/20 sulfite-free w/ elect in 20% dextrose w/ calcium in plastic container
+clinimix e 5/25 sulfite-free w/ elect in dextrose 25% w/ calcium in plastic container
+clinimix e 5/35 sulfite-free w/ elect in dextrose 35% w/ calcium in plastic container
+clinisol 15% sulfite free in plastic container
+clinolipid 20%
+clinoril
+clobetasol propionate
+clobetasol propionate (emollient)
 clobex
-clocortolone
-clodan
 cloderm
-clofarabine
-clofazimine
-clofera
 clolar
 clomid
-clomiphene
-clomipramine
+clomiphene citrate
+clomipramine hydrochloride
 clonazepam
 clonidine
-clopamide
+clonidine hydrochloride
 clopidogrel
-clorazepate
+clopidogrel bisulfate
+clorazepate dipotassium
 clorpres
-clorsulon
 clotrimazole
-clove
-cloverine
+clotrimazole and betamethasone dipropionate
 clozapine
 clozaril
-cnl8
 coartem
-cobalamins
-cobamamide
-cobicistat
-cobolin-m
-cocaine
-cocet
-cochineal
-coco-betaine
-coco-caprylate
-coco-caprylate-caprate
-coco-caprylate/caprate
-coco-glycerides
-cocoa
-coconut
-cod
-codeine
-codfish
-codrix
+codeine sulfate
 cogentin
-colace
+col-probenecid
 colazal
-colchicine
 colcrys
-colesevelam
 colestid
-colestipol
-colistimethate
-colistin
-collagen
-collagenase
+colestipol hydrochloride
+colistimethate sodium
 colocort
+coly-mycin m
+coly-mycin s
 colyte
+colyte with flavor packs
 combigan
 combipatch
 combivent
+combivent respimat
 combivir
-combunox
 cometriq
-comfrey
-compazine
 complera
-compoz
 compro
 comtan
-comvax
-conceptrol
 concerta
-condoliase
 condylox
-congestac
-conivaptan
+conray
+conray 30
+conray 43
+constilac
 constulose
 contrave
 conzip
 copaxone
 copegus
-copovidone
-copper
 cordarone
 cordran
+cordran sp
 coreg
+coreg cr
 corgard
-corifact
 corlopam
 cormax
-corn
-cornsilk
-cornstarch
-cortaid
-cortalo
-cortane-b
 cortef
 cortenema
-corticool
-corticorelin
-corticotropin
 cortifoam
-cortisone
+cortisone acetate
 cortisporin
-cortisporin-tc
-cortizone-10
-cortizone-5
-cortomycin
 cortrosyn
 corvert
-corzall
 corzide
-cosamin
-cosentyx
 cosmegen
 cosopt
+cosopt pf
 cosyntropin
-cotabflu
-cotacort
-cotolone
-cotton
 coumadin
-coumarin
-covaryx
-covera
+covera-hs
 cozaar
-cr-gtf
-cranberry
-creatine
-creatinine
-creomulsion
 creon
-creosote
-cresol
 crestor
-cresylate
 crinone
 crixivan
-crizotinib
-crofab
-crofelemer
 crolom
-cromolyn
-croscarmellose
-crospovidone
-crosprovidone
-crotamiton
-cruex
-cryptenamine
+cromolyn sodium
+crotan
+cryselle
 cubicin
-cucumber
-culturelle
-cumin
+cupric chloride in plastic container
 cuprimine
-curcumin
-curdlan
 curosurf
-cutar
 cutivate
 cuvposa
 cyanocobalamin
 cyanokit
-cyclacillin
-cyclandelate
-cyclivert
-cyclizine
-cyclobenzaprine
-cyclocort
+cyclafem 1/35
+cyclafem 7/7/7
+cyclessa
+cyclobenzaprine hydrochloride
 cyclogyl
-cyclohexane
-cyclomethicone
-cyclomethycaine
 cyclomydril
-cyclopenthiazide
-cyclopentolate
 cyclophosphamide
-cycloserine
 cycloset
 cyclosporine
-cyclothiazide
-cycrimine
 cyklokapron
-cylate
 cymbalta
-cyproheptadine
-cyproterone
-cyramza
+cyproheptadine hydrochloride
 cystadane
 cystagon
 cystaran
-cysteamine
-cysteine
-cystemms-v
-cystex
-cystine
+cysto-conray ii
+cystografin
+cystografin dilute
+cysview kit
 cytarabine
-cytogam
 cytomel
+cytosar-u
 cytotec
 cytovene
-cytra-3
-cytra-k
-d-biotin
-d-mannitol
-d-phen
-d-tal
-d-vi-sol
-dabigatran
-dabrafenib
+cytoxan (lyophilized)
+d.h.e. 45
 dacarbazine
-daclizumab
 dacogen
 dactinomycin
-dalbavancin
-dalfampridine
-dalfopristin
 daliresp
-dalmane
-dalteparin
 dalvance
-danaparoid
 danazol
-dandrex
-danthron
 dantrium
-dantrolene
-dapagliflozin
-dapiprazole
+dantrolene sodium
 dapsone
-daptacel
 daptomycin
-daranide
 daraprim
-darifenacin
-darunavir
-darvon-n
-dasabuvir
-dasatinib
-date
-daunorubicin
+dasetta 1/35
+dasetta 7/7/7
+datscan
+daunorubicin hydrochloride
 daunoxome
-dayhist-1
 daypro
+daysee
 daytrana
 ddavp
-deanol
-debacterol
-debrox
-decadron
-decan-4-olide
-decara
-decavac
+ddavp (needs no refrigeration)
 decitabine
-declomycin
-deconamine
-deconex
-decoquinate
-deferasirox
-deferiprone
-deferoxamine
-deflazacort
-degarelix
-dehydrocholate
-dehydroepiandrosterone
-del-aqua
+deferoxamine mesylate
+definity
 delatestryl
-delavirdine
-delazinc
 delestrogen
-delsym
-deltasone
+delflex w/ dextrose 1.5% in plastic container
+delflex w/ dextrose 1.5% low magnesium in plastic container
+delflex w/ dextrose 1.5% low magnesium low calcium in plastic container
+delflex w/ dextrose 2.5% in plastic container
+delflex w/ dextrose 2.5% low magnesium in plastic container
+delflex w/ dextrose 2.5% low magnesium low calcium in plastic container
+delflex w/ dextrose 3.5% in plastic container
+delflex w/ dextrose 4.25% in plastic container
+delflex w/ dextrose 4.25% low magnesium in plastic container
+delflex w/ dextrose 4.25% low magnesium low calcium in plastic container
+delflex-lm w/ dextrose 1.5% in plastic container
+delflex-lm w/ dextrose 2.5% in plastic container
+delflex-lm w/ dextrose 3.5% in plastic container
+delflex-lm w/ dextrose 4.25% in plastic container
 delzicol
 demadex
-demecarium
-demeclocycline
+demeclocycline hydrochloride
 demerol
 demser
 denavir
 dendrid
-denosumab
-dent-o-kain
-dentagel
-dentapaine
-deoxycorticosterone
-deoxyribonucleases
 depacon
-depade
 depakene
 depakote
+depakote er
 depen
-depo-cobolin
 depo-estradiol
 depo-medrol
 depo-provera
+depo-subq provera 104
 depo-testosterone
 depocyt
-depodur
-deprizine
-derifil
-derma-pax
-dermacort
-dermafix
-dermafungal
-dermagran
-dermalzone
-dermamycin
-dermaphor
-dermasarra
-dermaseptin
+derma-smoothe/fs
+dermabet
 dermatop
-dermazene
-dermazinc
-dermoplast
+dermatop e emollient
 dermotic
-desenex
-deserpidine
 desferal
-desflurane
-desipramine
-desirudin
-desitin
-deslanoside
+desipramine hydrochloride
 desloratadine
-desmopressin
-desogestrel
+desloratadine and pseudoephedrine sulfate 24 hour
+desmopressin acetate
+desmopressin acetate (needs no refrigeration)
+desogen
+desogestrel and ethinyl estradiol
 desonate
 desonide
 desowen
 desoximetasone
 desoxyn
-despec-sf
-desquam
 desvenlafaxine
-desyrel
 detrol
-dex4
+detrol la
 dexamethasone
-dexbrompheniramine
-dexchlorpheniramine
+dexamethasone intensol
+dexamethasone sodium phosphate
+dexasporin
+dexchlorpheniramine maleate
 dexedrine
 dexferrum
 dexilant
-dexlansoprazole
-dexmedetomidine
-dexmethylphenidate
-dexpanthenol
-dexrazoxane
-dextran
-dextranomer
-dextrates
-dextroamphetamine
-dextromethorphan
-dextrose
-dextrothyroxine
-dezocine
-dhe-45
-di-(4-tert-butylcyclohexyl)peroxydicarbonate
-di-dak-sol
-di-phen
+dexmedetomidine hydrochloride
+dexmethylphenidate hydrochloride
+dexrazoxane hydrochloride
+dextroamp saccharate, amp aspartate, dextroamp sulfate and amp sulfate
+dextroamp saccharate,amp aspartate,dextroamp sulfate and amp sulfate
+dextroamphetamine sulfate
+dextrose 10% and sodium chloride 0.11% in plastic container
+dextrose 10% and sodium chloride 0.2% in plastic container
+dextrose 10% and sodium chloride 0.33% in plastic container
+dextrose 10% and sodium chloride 0.45% in plastic container
+dextrose 10% and sodium chloride 0.9% in plastic container
+dextrose 10% in plastic container
+dextrose 2.5% and sodium chloride 0.11% in plastic container
+dextrose 2.5% and sodium chloride 0.2% in plastic container
+dextrose 2.5% and sodium chloride 0.33% in plastic container
+dextrose 2.5% and sodium chloride 0.45% in plastic container
+dextrose 2.5% and sodium chloride 0.9% in plastic container
+dextrose 2.5% in half-strength lactated ringer's in plastic container
+dextrose 20% in plastic container
+dextrose 25%
+dextrose 3.3% and sodium chloride 0.3% in plastic container
+dextrose 30% in plastic container
+dextrose 40% in plastic container
+dextrose 5% and electrolyte no 75 in plastic container
+dextrose 5% and electrolyte no.48 in plastic container
+dextrose 5% and lactated ringer's in plastic container
+dextrose 5% and potassium chloride 0.075% in plastic container
+dextrose 5% and potassium chloride 0.15% in plastic container
+dextrose 5% and potassium chloride 0.224% in plastic container
+dextrose 5% and potassium chloride 0.3% in plastic container
+dextrose 5% and ringer's in plastic container
+dextrose 5% and sodium chloride 0.11% in plastic container
+dextrose 5% and sodium chloride 0.2% in plastic container
+dextrose 5% and sodium chloride 0.225% in plastic container
+dextrose 5% and sodium chloride 0.3% in plastic container
+dextrose 5% and sodium chloride 0.33% in plastic container
+dextrose 5% and sodium chloride 0.45% in plastic container
+dextrose 5% and sodium chloride 0.9% in plastic container
+dextrose 5% in acetated ringer's in plastic container
+dextrose 5% in lactated ringer's in plastic container
+dextrose 5% in plastic container
+dextrose 5% in ringer's in plastic container
+dextrose 5% in sodium chloride 0.2% in plastic container
+dextrose 5% in sodium chloride 0.33% in plastic container
+dextrose 5% in sodium chloride 0.45% in plastic container
+dextrose 5% in sodium chloride 0.9% in plastic container
+dextrose 5%, sodium chloride 0.2% and potassium chloride 10meq
+dextrose 5%, sodium chloride 0.2% and potassium chloride 15meq (k)
+dextrose 5%, sodium chloride 0.2% and potassium chloride 20meq
+dextrose 5%, sodium chloride 0.2% and potassium chloride 20meq (k)
+dextrose 5%, sodium chloride 0.2% and potassium chloride 30meq
+dextrose 5%, sodium chloride 0.2% and potassium chloride 40meq
+dextrose 5%, sodium chloride 0.2% and potassium chloride 5meq
+dextrose 5%, sodium chloride 0.2% and potassium chloride 5meq (k)
+dextrose 5%, sodium chloride 0.33% and potassium chloride 10meq in plastic container
+dextrose 5%, sodium chloride 0.33% and potassium chloride 15meq in plastic container
+dextrose 5%, sodium chloride 0.33% and potassium chloride 20meq in plastic container
+dextrose 5%, sodium chloride 0.33% and potassium chloride 30meq in plastic container
+dextrose 5%, sodium chloride 0.33% and potassium chloride 40meq in plastic container
+dextrose 5%, sodium chloride 0.33% and potassium chloride 5meq in plastic container
+dextrose 5%, sodium chloride 0.45% and potassium chloride 20meq (k) in plastic container
+dextrose 50% in plastic container
+dextrose 60% in plastic container
+dextrose 70% in plastic container
 diabeta
-diamode
+diabinese
+dialyte concentrate w/ dextrose 30% in plastic container
+dialyte concentrate w/ dextrose 50% in plastic container
+dialyte lm/ dextrose 1.5% in plastic container
+dialyte lm/ dextrose 2.5% in plastic container
+dialyte lm/ dextrose 4.25% in plastic container
 diamox
+dianeal 137 w/ dextrose 1.5% in plastic container
+dianeal 137 w/ dextrose 2.5% in plastic container
+dianeal 137 w/ dextrose 4.25% in plastic container
+dianeal low calcium w/ dextrose 1.5% in plastic container
+dianeal low calcium w/ dextrose 2.5% in plastic container
+dianeal low calcium w/ dextrose 3.5% in plastic container
+dianeal low calcium w/ dextrose 4.25% in plastic container
+dianeal pd-1 w/ dextrose 1.5% in plastic container
+dianeal pd-1 w/ dextrose 2.5% in plastic container
+dianeal pd-1 w/ dextrose 3.5% in plastic container
+dianeal pd-1 w/ dextrose 4.25% in plastic container
+dianeal pd-2 w/ dextrose 1.5% in plastic container
+dianeal pd-2 w/ dextrose 2.5% in plastic container
+dianeal pd-2 w/ dextrose 3.5% in plastic container
+dianeal pd-2 w/ dextrose 4.25% in plastic container
 diastat
-diatrizoate
+diastat acudial
 diazepam
-diazolidinylurea
-diazoxide
+diazepam intensol
 dibenzyline
-dibucaine
-dicetylphosphate
-dichloralphenazone
-dichlorobenzene
-dichlorodifluoromethane
-dichlorodifluoromethasone
-dichlorofluoromethane
-dichloromonofluoromethane
-dichlorotetrafluoroethane
-dichlorphenamide
-diclazuril
 diclegis
-diclofenac
-dicloxacillin
-dicopanol
-dicumarol
-dicyclocot
-dicyclomine
+diclofenac potassium
+diclofenac sodium
+diclofenac sodium and misoprostol
+dicloxacillin sodium
+dicyclomine hydrochloride
+dicyclomine hydrochloride (preservative-free)
 didanosine
-didesmethyltocotrienol
 didrex
 didronel
-dienestrol
-dienogest
-diethanolamine
-diethylcarbamazine
-diethylpropion
-diethylstilbestrol
-difenoxin
+diethylpropion hydrochloride
 differin
 dificid
-diflorasone
+diflorasone diacetate
 diflucan
-diflucortolone
+diflucan in dextrose 5% in plastic container
+diflucan in sodium chloride 0.9%
+diflucan in sodium chloride 0.9% in plastic container
 diflunisal
-difluprednate
-digex
-digifab
-digitek
-digitoxin
-diglycerin
-diglycine
-digox
 digoxin
-dihydro-.alpha.-ergocryptine
-dihydro-alpha-ergocryptine
-dihydrocodeine
-dihydroergocornine
-dihydroergocristine
-dihydroergotamine
-dihydrotachysterol
-dihydroxyacetone
-diisopropanolamine
-diisopropylamine
-dilacor
+dihydroergotamine mesylate
 dilantin
-dilatrate
+dilantin-125
+dilatrate-sr
 dilaudid
-dill
-dilt
-diltia
-diltiazem
+dilaudid-hp
+dilt-cd
+diltiazem hydrochloride
 diltzac
 dimenhydrinate
-dimercaprol
-dimethicone
-dimethylacetamide
-dimetridazole
-dinoprost
-dinoprostone
-diosmin
+dimethyl sulfoxide
 diovan
-dioxybenzone
+diovan hct
 dipentum
-diphedryl
-diphemanil
-diphenhist
-diphenhydramine
-diphenidol
-diphenoxylate
-diphenyl
-diphenylpyraline
-dipivefrin
+diphenhydramine hydrochloride
+diphenhydramine hydrochloride preservative free
+diphenoxylate hydrochloride and atropine sulfate
 diprivan
 diprolene
+diprolene af
 dipyridamole
-dipyrone
-dirithromycin
-disalcid
-discovisc
-disopyramide
-distigmine
+disopyramide phosphate
 disulfiram
-ditropan
-diurex
+ditropan xl
 diuril
+divalproex sodium
 divigel
-doan's
-dobutamine
+dobutamine hydrochloride
+dobutamine hydrochloride in dextrose 5% in plastic container
 docefrez
 docetaxel
-doconexent
-docosahexaenoate
-docosanol
-doculase
-doculax
-docusate
-docusol
-dodecanol
-dofetilide
-dofus
-dok
-dolacet
-dolasetron
-dolobid
-dologen
-dologesic
-dolophine
-doloracin
-dolutegravir
-domeboro
-domperidone
-donepezil
-donnatal
-dopamine
-dopc
+dolophine hydrochloride
+donepezil hydrochloride
+dopamine hydrochloride
+dopamine hydrochloride and dextrose 5%
+dopamine hydrochloride and dextrose 5% in plastic container
+dopamine hydrochloride in dextrose 5% in plastic container
 dopram
 doral
 doribax
-doripenem
 doryx
-dorzolamide
-dothiepin
-douche
+dorzolamide hydrochloride
+dorzolamide hydrochloride and timolol maleate
+dotarem
 dovonex
-doxacurium
-doxapram
-doxazosin
-doxepin
+doxapram hydrochloride
+doxazosin mesylate
+doxepin hydrochloride
 doxercalciferol
-doxidan
-doxil
-doxorubicin
-doxy
+doxil (liposomal)
+doxorubicin hydrochloride
+doxorubicin hydrochloride (liposomal)
+doxteric
+doxy 100
+doxy 200
 doxycycline
-doxylamine
-dppg
-dramamine
-driminate
+doxycycline hyclate
+draximage mdp-25
 drisdol
-drithocreme
-dromostanolone
 dronabinol
-dronedarone
 droperidol
-drospirenone
+drospirenone and ethinyl estradiol
 droxia
-droxidopa
-drysol
-dryvax
 dtic-dome
+dtpa
 duac
 duavee
-duck
 duetact
 duexis
-dulaglutide
-dulcolax
 dulera
-duloxetine
-dulse
-duo-medihaler
+duloxetine hydrochloride
 duodote
-duofilm
-duomax
 duoneb
 duopa
-duoplant
-durabac
 duraclon
-duraflor
-duragesic
-duramorph
-duraprep
-durasal
-duration
-duratuss
+duragesic-100
+duragesic-12
+duragesic-25
+duragesic-50
+duragesic-75
+duramorph pf
 durezol
-duricef
 dutasteride
+dutasteride and tamsulosin hydrochloride
 dutoprol
+dutrebis
+duvoid
 dyazide
-dyclonine
-dydrogesterone
+dyloject
 dymista
-dyna-hex
 dynacin
-dynacirc
-dyphylline
 dyrenium
-dysport
-dytuss
-e-gems
-e-r-o
 e.e.s.
-e.s.p.
-earsol-hc
-ecallantide
-echinacea
-echothiophate
-econazole
-econochlor
-econopred
-ecotrin
+e.e.s. 200
+e.e.s. 400
+ec-naprosyn
+econazole nitrate
 ecoza
-ecpirin
-eculizumab
-eczemin
 edarbi
 edarbyclor
 edecrin
-edetol
 edex
 edluar
-edoxaban
-edrophonium
-edtmp
 edurant
-eescula
-efalizumab
-efavirenz
-effer-k
-effexor
+effexor xr
 effient
-efinaconazole
-eflornithine
-efodine
 efudex
-egg
-eggplant
 egrifta
-eicosapentaenoate
-elaprase
 eldepryl
-eldertonic
-eldopaque
-eldoquin
 elelyso
-elemi
 elestat
 elestrin
-eletriptan
 elidel
 eligard
-eliglustat
 elimite
+elinest
 eliphos
 eliquis
-elitek
 elixophyllin
 ella
 ellence
-ellura
-elm
+elliotts b solution
 elmiron
 elocon
-eloctate
 eloxatin
-elspar
-eltrombopag
-elvitegravir
 emadine
-emagrin
 embeda
+embeline
+embeline e
 emcyt
-emedastine
 emend
-emetine
-emetrol
-emgel
 emla
-empagliflozin
+emoquette
 emsam
-emtricitabine
 emtriva
 enablex
-enalapril
+enalapril maleate
+enalapril maleate and hydrochlorothiazide
 enalaprilat
-enbrel
-encainide
-encare
-endocet
 endometrin
-endopeptidases
-endrate
-enema
-enemeez
+endosol extra
 enflurane
-enfuvirtide
-engerix-b
-enilconazole
 enjuvia
 enlon
 enlon-plus
-enoxacin
-enoxaparin
-enoxolone
-enrofloxacin
+enoxaparin sodium
+enoxaparin sodium (preservative free)
+enpresse-28
+enskyce
 entacapone
 entecavir
-entercote
 entereg
-entocort
-entre-s
-entsol
-entyvio
-enuclene
+entocort ec
 enulose
-enzalutamide
-enzycap
-enzymax
-epaned
-ephedrine
-epicriptine
+eovist
+epaned kit
+epanova
 epiduo
 epifoam
-epilim
-epinastine
+epinastine hydrochloride
 epinephrine
 epipen
-epirubicin
+epipen jr.
+epirubicin hydrochloride
 epitol
 epivir
+epivir-hbv
 eplerenone
-epogen
-epoprostenol
-eprosartan
-eptifibatide
+epoprostenol sodium
+eprosartan mesylate
 epzicom
-equagesic
-equalactin
 equetro
 eraxis
-erbitux
 ergocalciferol
+ergoloid mesylates
 ergomar
-ergonovine
-ergotamine
-eribulin
+ergotamine tartrate and caffeine
 erivedge
-erlotinib
+erlotinib hydrochloride
+errin
 ertaczo
-ertapenem
-erwinaze
-ery
 ery-tab
 eryc
-erycette
 erygel
 eryped
 erythra-derm
-erythritol
+erythro-statin
+erythrocin
+erythrocin stearate
 erythromycin
-erythropoietin
-erythrosine
+erythromycin and benzoyl peroxide
+erythromycin ethylsuccinate
+erythromycin ethylsuccinate and sulfisoxazole acetyl
 esbriet
-escitalopram
-esgic
-eslicarbazepine
-esmolol
-esomeprazole
-esoterica
+escitalopram oxalate
+esmolol hydrochloride
+esomeprazole magnesium
+esomeprazole sodium
+esomeprazole strontium
+estarylla
 estazolam
 estrace
 estraderm
 estradiol
-estramustine
+estradiol and norethindrone acetate
+estradiol and norgestimate
+estradiol valerate
 estrasorb
 estring
-estriol
 estrogel
-estrone
 estropipate
+estrostep fe
 eszopiclone
-etanercept
-ethacrynate
-ethambutol
+ethambutol hydrochloride
 ethamolin
-ethanethiol
-ethanol
-ethanolamine
-ethaverine
-ethchlorvynol
-ether
-ethinamate
-ethionamide
-ethoheptazine
 ethosuximide
-ethotoin
-ethoxazene
 ethrane
-ethycellulose
-ethyl-p-hydroxybenzoate
-ethylbenzene
-ethylcellulose
-ethylcelluloses
-ethylene
-ethylenediamine
-ethylestrenol
-ethylhexylglycerin
-ethylparaben
-ethynodiol
 ethyol
-etidocaine
-etidronate
+etidronate disodium
 etodolac
 etomidate
-etonogestrel
-etopofos
+etopophos preservative free
 etoposide
-etravirine
-eucalyptol
-euflexxa
-eugenol
 eurax
 evamist
-evekeo
-everolimus
 evista
-evithrom
 evoclin
 evotaz
 evoxac
 evzio
-exactacain
 exalgo
-exall
-exametazime
-exaprin
-excedrin
-execlear-c
 exelderm
 exelon
 exemestane
-exenatide
 exforge
+exforge hct
 exjade
-exoderm
-exotic-hc
 exparel
-extavia
+extended phenytoin sodium
 extina
 extraneal
-exubera
-eyemycin
-eylea
-ez-ox
-ezetimibe
-ezfe
-ezogabine
 fabior
-fabrazyme
 factive
+falmina
 famciclovir
 famotidine
+famotidine preservative free
+famotidine preservative free in plastic container
 famvir
 fanapt
-fanatrex
-fanolesomab
 fareston
-farnesal
-farnesol
 farxiga
+farydak
 faslodex
-fasprin
-faststat
-fazaclo
-febuxostat
-feiba
+fazaclo odt
 felbamate
 felbatol
 feldene
 felodipine
 femara
+femcon fe
 femhrt
 femring
-fenbendazole
-fenbufen
+femtrace
 fenofibrate
+fenofibrate (micronized)
+fenofibric acid
 fenoglide
-fenoldopam
-fenoprofen
-fenoterol
-fentanyl
+fenoldopam mesylate
+fenoprofen calcium
+fentanyl citrate
+fentanyl citrate preservative free
+fentanyl-100
+fentanyl-12
+fentanyl-25
+fentanyl-37
+fentanyl-50
+fentanyl-62
+fentanyl-75
+fentanyl-87
 fentora
-feosol
-fer-in-sol
 feraheme
-fergon
-feridex
-ferocon
-ferotrinsic
-ferraplus
-ferrex-150
 ferriprox
 ferrlecit
-ferro-sequels
-ferrocite
-ferrogels
-ferumoxides
-ferumoxsil
-ferumoxytol
-fesoterodine
 fetzima
-feverall
-fexmid
-fexofenadine
-fiberall
-fibercon
+fexofenadine hydrochloride
+fexofenadine hydrochloride and pseudoephedrine hydrochloride
 fibricor
-fibrinogen
-fidaxomicin
-fig
-filgrastim
 finacea
-finafloxacin
 finasteride
-fingolimod
-fioricet
+fioricet w/ codeine
 fiorinal
-fipronil
+fiorinal w/codeine
 firazyr
 firmagon
 flagyl
-flanders
+flagyl er
+flagyl i.v. rtu in plastic container
 flarex
-flavor
-flavoring
-flavors
-flavos
-flavoxate
-flebogamma
-flecainide
+flavored colestid
+flavoxate hydrochloride
+flecainide acetate
 flector
-fleroxacin
-flexall
-flexbumin
-flexeril
 flo-pred
-floctafenine
 flolan
 flomax
 flonase
-florajen
-florajen3
-florastor
-florical
-florinef
-florone
-flosequinan
-flovent
-floxacillin
-floxin
+flovent diskus 100
+flovent diskus 250
+flovent diskus 50
+flovent hfa
+floxin otic
 floxuridine
-flucaine
+flucanazole in sodium chloride 0.9% in plastic container
 fluconazole
+fluconazole in dextrose 5% in plastic container
+fluconazole in sodium chloride 0.9%
+fluconazole in sodium chloride 0.9% in plastic container
 flucytosine
-fludara
-fludarabine
-fludrocortisone
+fludarabine phosphate
+fludeoxyglucose f 18
+fludeoxyglucose f18
+fludrocortisone acetate
 flumadine
 flumazenil
-flumethasone
 flunisolide
-flunitrazepam
-flunixin
-fluocinolone
+fluocinolone acetonide
 fluocinonide
-fluor-op
-fluorabon
-fluoracaine
-fluorescein
-fluoridex
-fluorinse
-fluorishield
-fluoritab
-fluorometholone
+fluocinonide emulsified base
+fluorescite
 fluoroplex
 fluorouracil
-fluoxetine
+fluoxetine hydrochloride
 fluoxymesterone
-flupenthixol
-fluphenazine
-fluprednisolone
-flura-drops
-flura-loz
-flura-tab
-flurandrenolide
-flurazepam
+fluphenazine decanoate
+fluphenazine hydrochloride
+flurazepam hydrochloride
 flurbiprofen
+flurbiprofen sodium
 flutamide
-fluticasone
-fluvastatin
-fluvoxamine
-fluxid
+fluticasone propionate
+fluvastatin sodium
+fluvoxamine maleate
 fml
-fml-s
+fml forte
 focalin
-foille
-folacin
-folbalin
-folbecal
-folbee
-folbic
-folcaps
-folgard
-folitab
-folivane-f
-follistim
-follitropin
+focalin xr
+folic acid
+follistim aq
 folotyn
-folplex
-foltabs
-foltrate
-foltx
 fomepizole
-fomivirsen
-fondaparinux
+fondaparinux sodium
 foradil
 forane
-forfivo
-forma-ray
-formadon
-formaldehyde
-formoterol
+forfivo xl
 fortamet
 fortaz
+fortaz in plastic container
 forteo
 fortesta
 fortical
 fosamax
-fosamprenavir
-foscarnet
+fosamax plus d
+foscarnet sodium
 foscavir
-fosfomycin
-fosinopril
-fosinoprilat
-fosphenytoin
-fospropofol
+fosinopril sodium
+fosinopril sodium and hydrochlorothiazide
+fosphenytoin sodium
 fosrenol
-fostex
-fosveset
-fragance
 fragmin
-frankincense
-freezone
-frenadol
-freshkote
+freamine hbc 6.9%
+freamine iii 10%
+freamine iii 3% w/ electrolytes
+freamine iii 8.5%
+freamine iii 8.5% w/ electrolytes
 frova
-frovatriptan
-fructooligosaccharide
-fructose
-fruit
-fulvestrant
+frovatriptan succinate
 fulyzaq
-fumarate
-fumatinic
-fungi-guard
-fungi-nail
-fungoid
-fungoid-d
 furadantin
-furazolidone
 furosemide
 fusilev
 fuzeon
 fycompa
-g-zyncof
 gabapentin
 gabitril
 gablofen
-gadobutrol
-gadodiamide
-gadofosveset
-gadopentetate
-gadoteridol
-gadoversetamide
-galactoarabinan
-galactose
-galantamine
-gallamine
-galsulfase
+gadavist
+galantamine hydrobromide
+gallium citrate ga 67
 galzin
-gamastan
-gamboge
-gamma-aminobutyrate
-gamma-cyclodextrin
-gamma-linolenate
-gammagard
-gammaked
-gammaplex
-gammar
-gamunex
 ganciclovir
-ganirelix
-ganite
-garamycin
-gardasil
-garlic
-garlique
-gas-x
+ganirelix acetate
 gastrocrom
-gastromark
+gastrografin
 gatifloxacin
-gattex
-gavilax
-gaviltye-g
-gavilyte-c
-gavilyte-n
-gaviscon
-gazyva
-gefitinib
-gel-kam
-gel-one
-gelatin
-gelato
+gattex kit
 gelnique
-gelusil
-gemcitabine
+gelnique 3%
+gemcitabine hydrochloride
 gemfibrozil
-gemifloxacin
 gemzar
-genapap
-genaphed
+gen-xene
 generlac
-genexa
 gengraf
 genoptic
 genotropin
-genpril
+genotropin preservative free
 gentak
-gentamicin
-gentasol
-genteal
-gentlelax
-geocillin
+gentamicin sulfate
+gentamicin sulfate in sodium chloride 0.9% in plastic container
 geodon
-geraniol
-geri-hydrolac
-germanium
-gestodene
-gestrinone
 giazo
+gildagia
+gildess 1.5/30
+gildess 1/20
+gildess 24 fe
+gildess fe 1.5/30
+gildess fe 1/20
 gilenya
 gilotrif
-gilphex
-ginger
-ginkgo
-ginsana
-gitalin
-glassia
-glatiramer
 gleevec
 gleostine
 gliadel
 glimepiride
 glipizide
+glipizide and metformin hydrochloride
+glofil-125
 glucagen
 glucagon
-glucarpidase
-glucoburst
-glucomannan
-gluconate
-gluconolactone
 glucophage
-glucosamine
-glucose
+glucophage xr
 glucotrol
+glucotrol xl
 glucovance
 glumetza
-glutamate
-glutamic-500
-glutamine
-glutaral
-glutathione
-glutethimide
-glutose
-gly-oxide
 glyburide
-glycate
-glycenn
-glycereth-18
-glycereth-26
-glycerin
-glycerol
-glycine
-glycolate
+glyburide (micronized)
+glyburide and metformin hydrochloride
+glycine 1.5% in plastic container
 glycolax
-glycophos
 glycopyrrolate
-glycopyrronium
-glycylglycine
-glycyrrhizin
 glydo
 glynase
 glyset
-glytone
 glyxambi
-gold
-goldenseal
-golimumab
 golytely
-gonadorelin
-gonak
-goniosoft
-goniovisc
-goose
-gordofilm
-gordogesic
-gormel
-goserelin
+gonal-f
+gonal-f rff
+gonal-f rff redi-ject
 gralise
-gramicidin
-granisetron
-granisol
-granix
-granul-derm
-granulex
-grape
-grapefruit
-grastek
-grepafloxacin
+granisetron hydrochloride
+granisetron hydrochloride preservative free
+granisteron hydrochloride
+grifulvin v
 gris-peg
 griseofulvin
-guaiacol
-guaiacolsulfonate
-guaifenesin
-guanabenz
-guanadrel
-guanethidine
-guanfacine
-guanidine
-guava
-guiatuss
-gynazole-1
-gyne-lotrimin
-gynecort
-gynodiol
-h2q
-habitrol
-haddock
+griseofulvin, ultramicrosize
+griseofulvin,ultramicrosize
+guanabenz acetate
+guanfacine hydrochloride
+guanidine hydrochloride
+h.p. acthar gel
 halaven
-halazepam
-halazone
-halcinonide
 halcion
 haldol
-halflytely
-halfprin
-halls
-halobetasol
-halofantrine
+halobetasol propionate
 halog
 haloperidol
-haloprogin
-halotestin
-halothane
+haloperidol decanoate
 harvoni
-havrix
-hazelnut
-healon
-healon5
-healthylax
-hecoria
-hectorite
+heather
 hectorol
-helium
-helixate
 hemabate
 hemangeol
-hematogen
-hemax
-hemin
-hemoban
-hemocyte
-hemocyte-f
-hemofil
-hemorid
-hemril
-hep-lock
-heparin
-hepatasol
-hepflush
+heparin sodium
+heparin sodium 1,000 units and sodium chloride 0.9% in plastic container
+heparin sodium 1,000 units in sodium chloride 0.9% in plastic container
+heparin sodium 10,000 units in dextrose 5% in plastic container
+heparin sodium 12,500 units in dextrose 5% in plastic container
+heparin sodium 12,500 units in sodium chloride 0.45% in plastic container
+heparin sodium 2,000 units and sodium chloride 0.9% in plastic container
+heparin sodium 2,000 units in sodium chloride 0.9% in plastic container
+heparin sodium 20,000 units in dextrose 5% in plastic container
+heparin sodium 25,000 units in dextrose 5% in plastic container
+heparin sodium 25,000 units in sodium chloride 0.45% in plastic container
+heparin sodium in plastic container
+heparin sodium preservative free
+hepatamine 8%
+hepatolite
 hepsera
-heptane
-heptanes
-herceptin
-herring
-hespan
-hesperetin
-hesperidin
-hetastarch
+herplex
 hetlioz
-hexachlorophene
-hexadecanamide
-hexafluorenium
+hexabrix
 hexalen
-hexamethyldisiloxane
-hexaminolevulinate
-hexobarbital
-hexocyclium
-hextend
-hexylcaine
-hexyldecanol
-hexylresorcinol
-hiberix
-hibiclens
-hibistat
+hicon
 hiprex
-histadec
-histafed
-histamine
-histatrol
-histidine
-histrelin
-hizentra
-homatropaire
-homatropine
-honey
-hops
-horehound
+homatropine methylbromide and hydrocodone bitartrate
 horizant
-horseradish
-hss
 humalog
-humate-p
+humalog kwikpen
+humalog mix 50/50
+humalog mix 50/50 kwikpen
+humalog mix 75/25
+humalog mix 75/25 kwikpen
 humatrope
-humira
-humist
-humulin
-hurricaine
-hyalgan
-hyaluronan
-hyaluronate
-hyaluronidase
-hybrisil
+humulin r
 hycamtin
-hycet
-hycodan
-hydralazine
-hydrasyn25
+hydergine
+hydra-zide
+hydralazine hydrochloride
 hydrea
-hydrisalic
+hydro-rx
 hydrochlorothiazide
-hydrocil
-hydrocodone
+hydrocodone bitartrate and acetaminophen
+hydrocodone bitartrate and chlorpheniramine maleate
+hydrocodone bitartrate and homatropine methylbromide
+hydrocodone bitartrate and ibuprofen
+hydrocodone bitartrate and pseudoephedrine hydrochloride
+hydrocodone bitartrate, chlorpheniramine maleate and pseudoephedrine hydrochloride
+hydrocodone polistirex and chlorpheniramine polistirex
+hydrocodone polistirex and chlorpheniramne polistirex
 hydrocortisone
-hydrocot
-hydrofed
-hydroflumethiazide
-hydromet
-hydromorphone
-hydropel
-hydroquinone
-hydroskin
-hydrotalcite
+hydrocortisone acetate
+hydrocortisone and acetic acid
+hydrocortisone butyrate
+hydrocortisone in absorbase
+hydrocortisone valerate
+hydromorphone hydrochloride
 hydroxocobalamin
-hydroxyamphetamine
-hydroxychloroquine
-hydroxycitronellal
-hydroxyprogesterone
-hydroxyproline
-hydroxypropyl-alpha-cyclodextrin
-hydroxypropylcellulose
-hydroxypropylmethylcellulose
-hydroxytyrosol
+hydroxychloroquine sulfate
 hydroxyurea
-hydroxyzine
-hylenex
-hylira
-hyomax
-hyophen
-hyoscyamine
-hyper-sal
-hypercare
-hyperrab
-hyperrho
-hypochlorite
-hypotears
-hypromellose
-hypromelloses
-hysept
+hydroxyzine hydrochloride
+hydroxyzine pamoate
+hylenex recombinant
 hysingla
-hyskon
-hyssop
-hytone
 hyzaar
-ibandronate
+ibandronate sodium
 ibrance
-ibrutinib
-ibu
-ibudone
+ibu-tab
 ibuprofen
-ibuprohm
-ibutilide
-icar
-icatibant
-ichthammol
+ibutilide fumarate
+ic-green
 iclusig
-icodextrin
-icosapent
-idamycin
-idarubicin
-idelalisib
-idoxuridine
-idursulfase
-iferex
+idamycin pfs
+idarubicin hydrochloride
+idarubicin hydrochloride pfs
+idkit:hp
 ifex
 ifosfamide
-ilaris
+ifosfamide/mesna kit
 ilevro
-iloperidone
-iloprost
-ilotycin
 iluvien
-imatinib
 imbruvica
-imdur
-imidurea
-imiglucerase
-imipenem
-imipramine
+imipenem and cilastatin
+imipramine hydrochloride
+imipramine pamoate
 imiquimod
 imitrex
+imitrex statdose
 imodium
-imotil
 impavido
 implanon
 imuran
-inamrinone
 inapsine
-incivek
 increlex
-incruse
-indacaterol
+incruse ellipta
 indapamide
-inderal
-indinavir
+inderal la
+inderide-40/25
+indiclor
+indium in 111 chloride
+indium in-111 oxyquinoline
 indocin
+indocyanine green
 indomethacin
-infanrix
-infantaire
-infasurf
+indomethacin sodium
+infasurf preservative free
 infed
-infergen
-infliximab
 infumorph
-infuvite
+infuvite adult
+infuvite pediatric
+infuvite pediatric (pharmacy bulk package)
 injectafer
 inlyta
-innofem
-innohep
-innopran
+innopran xl
 inomax
-inositol
-inova
 inspra
-insta-char
-insta-glucose
-instacort
-instantfoam
 integrilin
 intelence
 intermezzo
-intestinex
-intralipid
+intralipid 10%
+intralipid 20%
+intralipid 30%
+introvale
 intuniv
-inulin
 invanz
 invega
+invega sustenna
 invirase
 invokamet
 invokana
-inzo
-iodex
-iodine
-iodine-131-tositumomab
-iodipamide
-iodixanol
-iodoflex
-iodopen
-iodoquinol
-iodosorb
-iohexol
-ionosol-b
-ionosol-mb
-ionosol-t
-iopamidol
+ionosol b and dextrose 5% in plastic container
+ionosol mb and dextrose 5% in plastic container
 iopidine
-iopromide
-iosat
-ioversol
-ioxilan
-ipecac
-ipilimumab
-ipol
-ipratropium
+ipratropium bromide
 iprivask
-iquix
 irbesartan
-iressa
-irinotecan
-iron
+irbesartan and hydrochlorothiazide
+irinotecan hydrochloride
 isentress
-ismo
-isobutane
-isobutylparaben
-isocaine
-isocarboxazid
-isoceteth-20
-isochron
-isodeceth-6
-isoditrate
-isododecane
-isoetharine
+isocaine hydrochloride
 isoflurane
-isoflurophate
-isohexadecane
-isoleucine
-isomalt
-isometheptene
-isomethyl-.alpha.-ionone
-isonarif
+isolyte e in plastic container
+isolyte h in dextrose 5% in plastic container
+isolyte m in dextrose 5% in plastic container
+isolyte p in dextrose 5% in plastic container
+isolyte r in dextrose 5% in plastic container
+isolyte s in dextrose 5% in plastic container
+isolyte s in plastic container
+isolyte s ph 7.4 in plastic container
 isoniazid
-isopentyldiol
-isoprene
-isopropamide
-isopropylparaben
-isoproterenol
-isoptin
-isoptocarpine
+isopto carpine
 isordil
-isosorbide
-isotretinoin
-isovate
-isoxaflutole
-isoxsuprine
+isosorbide dinitrate
+isosorbide mononitrate
+isosulfan blue
+isotonic gentamicin sulfate in plastic container
+isovue-200
+isovue-250
+isovue-300
+isovue-370
+isovue-m 200
+isovue-m 300
 isradipine
 istalol
 istodax
 isuprel
-itch-x
 itraconazole
-ivacaftor
-iveegam
 ivermectin
-ixabepilone
-ixempra
-ixiaro
+ixempra kit
 izba
-j-max
 jakafi
 jalyn
 jantoven
 janumet
+janumet xr
 januvia
 jardiance
-je-vax
+jeanatope
+jencycla
 jentadueto
-jetrea
-jevtana
-jinteli
+jevtana kit
 jublia
-juvisync
+junel 1.5/30
+junel 1/20
+junel fe 1.5/30
+junel fe 1/20
 juxtapid
-k-dur
-k-phos
 k-tab
-k-vescent
-kadcyla
+kabiven in plastic container
 kadian
-kalbitor
 kaletra
+kalexate
 kalydeco
-kanamycin
-kaolin
-kaopectate
+kanamycin sulfate
 kapvay
-karbinal
+karbinal er
+kariva
 kayexalate
 kazano
-kcentra
-kcl-40
-kedbumin
 keflex
-kemstro
+kefzol
+kelnor
 kenalog
-kepivance
+kenalog-10
+kenalog-40
 keppra
-kera-42
-kerafoam
-keralac
-keralyt
-kerlone
+keppra xr
 kerydin
 ketalar
-ketamine
+ketamine hydrochloride
 ketek
 ketoconazole
-ketodan
 ketoprofen
-ketorolac
-ketotifen
-keytruda
+ketorolac tromethamine
+ketozole
 khedezla
-kinerase
-kineret
-kinetin
 kinevac
-kinlytic
-kinrix
 kionex
-kitabis
+kitabis pak
 klaron
 klonopin
 klor-con
-klor-con/ef
-kogenate
-kola-pectin
-kolorz
-kombiglyze
-konsyl
+klor-con m10
+klor-con m15
+klor-con m20
+kombiglyze xr
 korlym
-kristalose
-krystexxa
-kuric
+kurvelo
 kuvan
-kwai
 kynamro
 kyprolis
-kytril
-l(-)-menthol
-l-alanine
-l-dromoran
-l-formula
-l-lactate
-l-methionine
-l-methylfolate
-labetalol
-lac-dose
+labetalol hydrochloride
+labetalol hydrocloride
 lac-hydrin
-laclotion
-lacosamide
 lacrisert
-lactaid
-lactase
-lactate
-lacticare
-lactinol
-lactitol
-lactoperoxidase
-lactose
-lactrase
+lactated ringer's and dextrose 5% in plastic container
+lactated ringer's in plastic container
 lactulose
-lamb
 lamictal
+lamictal cd
+lamictal odt
+lamictal xr
 lamisil
 lamivudine
+lamivudine and zidovudine
 lamotrigine
 lamprene
-lanabiotic
-lanacane
-lanolin
-lanoxicaps
+laniazid
+lanorinal
 lanoxin
-lanreotide
-lansinoh
+lanoxin pediatric
 lansoprazole
-lanthanum
-lantiseptic
+lansoprazole, amoxicillin and clarithromycin
 lantus
-lapatinib
-laponite
-lariam
-laronidase
-laryng-o-jet
+lantus solostar
+larin 1.5/30
+larin 1/20
+larin 24 fe
+larin fe 1.5/30
+larin fe 1/20
+larotid
+laryng-o-jet kit
 lasix
 lastacaft
 latanoprost
-latex
 latisse
-latrix
 latuda
-lauramide
-laureth-10
-laureth-12
-laureth-2
-laureth-23
-laureth-3
-laureth-4
-laureth-7
-laureth-9
-laviv
-laxmar
+lax-lyte with flavor packs
 lazanda
-lecithin
-lecithin-softgels
-ledipasvir
-leek
 leflunomide
-leg-gesic
-lemon
-lemtrada
-lenalidomide
-lentil
-lenzagel
-lenzapatch
-lepirudin
+lenvima
 lescol
+lescol xl
+lessina-28
 letairis
 letrozole
-lettuce
-leucine
-leucovorin
+leucovorin calcium
+leucovorin calcium preservative free
 leukeran
-leukine
-leuprolide
-levacet
-levalbuterol
-levallorphan
-levamisole
+leuprolide acetate
+levalbuterol hydrochloride
 levaquin
-levatol
-levbid
+levaquin in dextrose 5% in plastic container
 levemir
+levemir flexpen
+levemir flextouch
 levetiracetam
+levetiracetam in sodium chloride
 levitra
-levobetaxolol
-levobunolol
-levobupivacaine
-levocabastine
+levo-t
+levobunolol hydrochloride
 levocarnitine
-levocetirizine
-levodopa
+levocetirizine dihydrochloride
 levofloxacin
-levoleucovorin
-levomenol
-levomenthol
-levomethadyl
-levomilnacipran
-levonordefrin
+levofloxacin in dextrose 5% in plastic container
+levoleucovorin calcium
+levonest
 levonorgestrel
+levonorgestrel and ethinyl estradiol
+levonorgestrel and ethinyl estradiol and ethinyl estradiol
 levophed
-levorphanol
+levora 0.15/30-28
+levorphanol tartrate
 levothroid
-levothyroxine
+levothyroxine sodium
 levoxyl
-levsin
 levulan
 lexapro
-lexidronam
 lexiscan
 lexiva
-lexxel
 lialda
-librax
-licorice
-lidamantle
+librium
+lidex
 lidocaine
-lidocort
-lidocream
+lidocaine and prilocaine
+lidocaine hydrochloride
+lidocaine hydrochloride 0.2% and dextrose 5% in plastic container
+lidocaine hydrochloride 0.4% and dextrose 5% in plastic container
+lidocaine hydrochloride 0.4% in dextrose 5% in plastic container
+lidocaine hydrochloride 0.8% and dextrose 5% in plastic container
+lidocaine hydrochloride 0.8% in dextrose 5% in plastic container
+lidocaine hydrochloride 5% and dextrose 7.5%
+lidocaine hydrochloride and epinephrine
+lidocaine hydrochloride in plastic container
+lidocaine hydrochloride preservative free
+lidocaine hydrochloride preservative free in plastic container
+lidocaine hydrochloride viscous
+lidocaine viscous
 lidoderm
-lidopatch
-lidopen
-lidopro
-lidosite
-lidovir
-lignospan
-limbitrol
-lime
-limonene
-linaclotide
-linagliptin
+lignospan forte
+lignospan standard
+liletta
 lincocin
-lincomycin
 lindane
 linezolid
-linoleate
 linzess
 lioresal
-liothyronine
-lipase
-lipegfilgrastim
+liothyronine sodium
+lipiodol
 lipitor
-lipodox
 lipofen
-lipoflavovit
 liptruzet
-liq-10
-liqsorb
-liquadd
-liquibid
-liquibid-d
-liquibid-pd
-liquicet
-liquimat
-liraglutide
-lisdexamfetamine
 lisinopril
-listerine
-lisuride
-lithane
-lithium
+lisinopril and hydrochlorothiazide
+lithium carbonate
+lithium citrate
 lithobid
 lithostat
 livalo
-livostin
-lixisenatide
-lmx
+lo loestrin fe
+lo minastrin fe
+lo/ovral-28
 locoid
-lodine
+locoid lipocream
 lodosyn
-lodoxamide
-lodrane
-lofibra
-lokara
-lomefloxacin
-lomitapide
-lomocot
+loestrin 21 1.5/30
+loestrin 21 1/20
+loestrin fe 1.5/30
+loestrin fe 1/20
 lomotil
-lomustine
-loperamide
+lonox
+loperamide hydrochloride
 lopid
-lopinavir
 lopressor
+lopressor hct
 loprox
-loracarbef
-loradamed
-loratadine
+lopurin
 lorazepam
-lorcaserin
-lorcet
-lormetazepam
-lortab
-lorzone
-losartan
+lorazepam intensol
+lorazepam preservative free
+loryna
+losartan potassium
+losartan potassium and hydrochlorothiazide
+loseasonique
 lotemax
 lotensin
-loteprednol
+lotensin hct
 lotrel
-lotrimin
 lotrisone
 lotronex
 lovastatin
 lovaza
 lovenox
-loxapine
-loxitane
-lozol
-lta
-lubiprostone
-lucentis
-lucinactant
-luden's
-ludent
-lufenuron
+lovenox (preservative free)
+low-ogestrel-28
+loxapine succinate
+lta ii kit
 lufyllin
-luliconazole
-lumefantrine
-lumicain
+lumason
 lumigan
-luminal
-lumizyme
 lunesta
-lupron
-lurasidone
-lusair
-lusedra
-lusonal
-lusonex
-lustra
-lutein
+lupaneta pack
+lupron depot
+lupron depot-ped
 luvox
+luvox cr
 luxiq
 luzu
-lycopene
-lymphazurin
-lynox
+lymphoseek kit
 lynparza
-lypressin
 lyrica
-lysine
 lysodren
-lysozyme
 lysteda
-m.t.e.-5
-macitentan
-mackerel
+m.v.i. adult
+m.v.i. adult (pharmacy bulk package)
+m.v.i. pediatric
+m.v.i.-12 (without vitamin k)
 macrobid
 macrodantin
-macrogel
-macrogol
 macugen
-macuvite
-mafenide
-mag-delay
-mag-g
-magaldrate
-maginex
-magnacet
-magnesium
-magonate
-magtrate
+mafenide acetate
+magnesium sulfate
+magnesium sulfate in dextrose 5% in plastic container
+magnesium sulfate in plastic container
+magnevist
 makena
 malarone
+malarone pediatric
 malathion
-maldroxal
-maltitol
-maltodextrin
-maltol
-maltose
-mandelay
-mangafodipir
-manganese
-mangiferin
-mango
-mannitol
-mannose
-mapap
-maprotiline
-maraviroc
-marbofloxacin
+manganese chloride in plastic container
+mannitol 10%
+mannitol 10% in plastic container
+mannitol 10% w/ dextrose 5% in distilled water
+mannitol 15%
+mannitol 15% in plastic container
+mannitol 15% w/ dextrose 5% in sodium chloride 0.45%
+mannitol 20%
+mannitol 20% in plastic container
+mannitol 25%
+mannitol 5%
+mannitol 5% in plastic container
+mannitol 5% w/ dextrose 5% in sodium chloride 0.12%
+maprotiline hydrochloride
 marcaine
-marezine
-margesic
+marcaine hydrochloride
+marcaine hydrochloride preservative free
+marcaine hydrochloride w/ epinephrine
+marcaine hydrochloride w/ epinephrine preservative free
 marinol
-marlexate
+marlissa
 marplan
-marqibo
-marten-tab
-masanti
-masoprocol
+marqibo kit
 matulane
-matzim
 mavik
-max-freeze
-maxair
 maxalt
-maxaquin
-maxichlor
+maxalt-mlt
 maxidex
-maxidone
 maxipime
 maxitrol
 maxzide
-mazindol
-mebaral
+maxzide-25
+md-76r
+md-gastroview
+mdp-bracco
 mebendazole
-mebeverine
-mebrofenin
-mecamylamine
-mecasermin
-mechlorethamine
-meclicot
-meclizine
-meclocycline
-meclofenamate
-mecobalamin
-medetomidine
-medi-derm
-medi-lyte
-medi-quik
-medicone
-medigesic
-medihaler-epi
-medihaler-ergotamine
-medihaler-iso
-mediplast
-medivert
+mecamylamine hydrochloride
+meclizine hydrochloride
+meclofenamate sodium
 medrol
-medrox
-medroxyprogesterone
-medrysone
-mefenamate
-mefloquine
-mefoxin
+medroxyprogesterone acetate
+mefenamic acid
+mefloquine hydrochloride
+mefoxin in plastic container
 megace
-megestrol
-meglumine
+megace es
+megatope
+megestrol acetate
 mekinist
-melamin
-melamix
-melatonex
-melatonin
-melfiat
 meloxicam
-melphalan
-melquin-3
-memantine
-men-phor
-menactra
-menadiol
-menatetrenone
+melphalan hydrochloride
+memantine hydrochloride
+membraneblue
 menest
-menhibrix
 menopur
 menostar
 mentax
-menthol
-mentholatum
-menveo
-mepenzolate
-meperidine
-mephentermine
-mephenytoin
-mephobarbital
+meperidine hydrochloride
+meperidine hydrochloride preservative free
 mephyton
-mepivacaine
-meprednisone
+mepivacaine hydrochloride
 meprobamate
 mepron
-mequinol
-merbromin
-mercaptamine
 mercaptopurine
-mercuroclear
-mercury
 meropenem
 merrem
 mesalamine
-mesantoin
 mesna
 mesnex
-mesoridazine
-mesterolone
 mestinon
-mestranol
-metacresol
-metadate
-metaflumizone
-metaglip
-metamucil
-metaproterenol
+metadate cd
+metadate er
+metaproterenol sulfate
+metaraminol bitartrate
+metastron
 metaxalone
-meted
-metergoline
-metformin
-methacholine
-methacycline
-methadex
-methadone
+metformin hydrochloride
+methadone hydrochloride
+methadone hydrochloride intensol
 methadose
-methagual
-methamphetamine
-methandriol
-methandrostenolone
-methanol
-methantheline
-methapyrilene
-methaqualone
-metharbital
+methamphetamine hydrochloride
 methazolamide
-methdilazine
-methenamine
+methenamine hippurate
 methergine
 methimazole
-methionine
-methitest
 methocarbamol
-methohexital
-methotrexate
-methotrimeprazine
-methoxamine
+methocarbamol and aspirin
+methotrexate preservative free
+methotrexate sodium
+methotrexate sodium preservative free
 methoxsalen
-methoxyflurane
-methoxyphenamine
-methscopolamine
-methsuximide
+methscopolamine bromide
 methyclothiazide
-methylbenzethonium
-methylcellulose
-methylchloroisothiazolinone
-methylcobalamin
 methyldopa
-methyldopate
-methylergonovine
-methyleugenol
-methylhomatropine
+methyldopa and hydrochlorothiazide
+methyldopate hydrochloride
+methylergonovine maleate
 methylin
-methylisothiazolinone
-methylmethacrylate
-methylnaltrexone
-methylnicotinate
-methylparaben
-methylphenidate
+methylin er
+methylphenidate hydrochloride
 methylprednisolone
-methylpropanediol
-methylsulfonylmethane
+methylprednisolone acetate
+methylprednisolone sodium succinate
 methyltestosterone
-methyprylon
-methysergide
-metimyd
 metipranolol
 metoclopramide
+metoclopramide hydrochloride
 metolazone
 metopirone
-metoprolol
-metozolv
-metreleptin
+metoprolol succinate
+metoprolol tartrate
+metoprolol tartrate and hydrochlorothiazide
+metozolv odt
+metro i.v. in plastic container
 metrocream
 metrogel
+metrogel-vaginal
 metrolotion
 metronidazole
-metvixia
-metyrapone
-metyrosine
-mevacor
-mexiletine
-mezlocillin
-mi-acid
-mi-omega
+metronidazole in plastic container
+mexiletine hydrochloride
 miacalcin
-mianserin
-mica
-micaderm
-micafungin
-micanol
 micardis
-micardis-hct
-micatin
-miconazole
+micardis hct
+miconazole nitrate
 micort-hc
-micrhogam
-micro-guard
 micro-k
-microcrystalline
-microlipid
-micronase
+micro-k 10
+microgestin 1.5/30
+microgestin 1/20
+microgestin fe 1.5/30
+microgestin fe 1/20
+micronor
 microzide
 midamor
-midazolam
-midodrine
-midrin
+midazolam hydrochloride
+midazolam hydrochloride preservative free
+midodrine hydrochloride
+midozalam hydrochloride
 mifeprex
-mifepristone
 migergot
 miglitol
-miglustat
 migranal
-milantex
-millipred
-milnacipran
-milrinone
-miltefosine
-minidrops
+milrinone lactate
+milrinone lactate in dextrose 5%
+milrinone lactate in dextrose 5% in plastic container
+milrinone lactate in plastic container
+minastrin 24 fe
 minipress
-miniprin
+minirin
 minitran
 minivelle
-minizide
 minocin
-minocycline
+minocycline hydrochloride
 minoxidil
-mint
-mio-rel
-miochol
+miochol-e
 miostat
-mipomersen
-mirabegron
-miralax
 mirapex
-mircera
+mirapex er
 mirena
 mirtazapine
 mirvaso
@@ -3354,493 +2050,304 @@ misoprostol
 mitigare
 mitomycin
 mitosol
-mitotane
-mitoxantrone
-mitrazol
+mitoxantrone hydrochloride
 mivacron
-mivacurium
-moban
 mobic
-mobisyl
-moclobemide
 modafinil
-moderiba
-moexipril
-moexiprilat
-moisture-eyes
-moisturel
-molindone
-mollifene
-molybdenum
-molypen
-mometasone
-momexin
-monarc-m
-monistat
-monobenzone
-monocal
-monoclate-p
+modicon 28
+moexipril hydrochloride
+moexipril hydrochloride and hydrochlorothiazide
+moexipril hydrochloride and hydrocholrothiazide
+mometasone furoate
+monistat 3
+mono-linyah
 monodox
-monoethanolamine
-monofluorophosphate
 monoket
-mononine
-monooctanoin
-monooleate
-monoolein
-monopril
-monosulfiram
-monothioglycerol
-monovisc
-montelukast
-montmorillonite
-montmorrillonite
+montelukast sodium
 monurol
-morgidox
-moricizine
-morphine
-morpholine
+morphine sulfate
 motofen
-motrin
-mouthwash
 movantik
 moviprep
 moxatag
 moxeza
-moxifloxacin
-moxilin
-moxonidine
+moxifloxacin hydrochloride
 mozobil
-mucinex
+mpi dmsa kidney reagent
+mpi indium dtpa in 111
+ms contin
 multaq
-multi-delyn
-multigen
-multitrace-4
-multitrace-5
-mumpsvax
+multihance
+multihance multipack
 mupirocin
-muromonab-cd3
 muse
-muskmelon
 mustargen
-mvc-fluoride
-my-o-den
-myalept
 myambutol
 mycamine
-mycinaire
 mycobutin
-mydfrin
-mydocs
-mydral
+mycophenolate mofetil
+mycophenolic acid
 mydriacyl
-myeloperoxidase
 myfortic
-mykrox
-mylanta
 myleran
-myobloc
-myochrysine
-myoflex
 myorisan
-myoxin
-myozyme
+myoview
+myoview 30ml
 myrbetriq
-myrrh
 mysoline
-mytelase
-n'ice
-n,n-dimethylacetamide
-n-(3-(dimethylamino)propyl)octadecanamide
-n-acetyl-tyrosine
-n-acetylglucosamine
-n-acetyltryptophan
-n-acetyltyrosine
-n-butane
-nabi-hb
-nabilone
+myzilra
 nabumetone
 nadolol
-nafarelin
-nafcillin
-nafrinse
-naftifine
+nadolol and bendroflumethiazide
+nafcillin sodium
 naftin
-naglazyme
-nalbuphine
+nalbuphine hydrochloride
 nalfon
-nalidixate
-nalmefene
-naloxegol
-naloxone
-naltrexone
+nallpen in plastic container
+naloxone hydrochloride
+naloxone hydrochloride and pentazocine hydrochloride
+naltrexone hydrochloride
 namenda
+namenda xr
 namzaric
-nandrolone
-naphazoline
-naphcon
+nandrolone decanoate
+naphazoline hydrochloride
 naprelan
 naprosyn
 naproxen
+naproxen and esomeprazole magnesium
+naproxen sodium
 naratriptan
 nardil
-naringenin
 naropin
-nasacort
-nasadrops
-nasalcrom
-nasalide
-nasarel
 nascobal
-nasin
-nasohist
 nasonex
-nasopen
 natacyn
-natafort
-natalizumab
-natamycin
+natazia
 nateglinide
-natelle
 natesto
-natpara
 natrecor
 natroba
-nattokinase
-nature-throid
-nauzene
 navane
 navelbine
-nebivolol
+navstel
 nebupent
-nebusal
-nectarine
-nedocromil
-nefazodone
-nefopam
-nelarabine
-nelfinavir
-neo-polycin
+nedocromil sodium
+nefazodone hydrochloride
+nembutal sodium
+neo-fradin
 neo-synalar
-neo-synephrine
-neomycin
+neomycin and polymyxin b sulfate
+neomycin and polymyxin b sulfates and bacitracin zinc
+neomycin and polymyxin b sulfates and dexamethasone
+neomycin and polymyxin b sulfates and gramicidin
+neomycin and polymyxin b sulfates and hydrocortisone
+neomycin and polymyxin b sulfates, bacitracin zinc and hydrocortisone
+neomycin sulfate
 neoprofen
-neoq10
 neoral
-neostigmine
-neotame
-neotic
-neotuss
-nepafenac
-nephramine
-nephrocaps
-neptazane
+neosporin
+neosporin g.u. irrigant
+neostigmine methylsulfate
+nephramine 5.4%
 nesacaine
+nesacaine-mpf
 nesina
-nesiritide
-netilmicin
-netupitant
-neuac
-neulasta
-neumega
-neupogen
 neupro
-neuroforte-r
+neuraceq
+neurolite
 neurontin
-neutracare
-neutragard
-neutramaxx
-neutraphor
-neutrexin
 nevanac
 nevirapine
-nexafed
 nexavar
-nexavir
-nexiclon
 nexium
+nexium iv
 nexplanon
 nexterone
-nf
 niacin
-niacinamide
 niacor
 niaspan
-nicardipine
-nicazel
-nicomide
-nicomide-t
-nicorandil
-nicorelief
-nicorette
-nicotine
+nicardipine hydrochloride
 nicotrol
-nifediac
-nifedical
 nifedipine
-nifurpipone
-nikethamide
+nikki
 nilandron
-nilotinib
-nilutamide
 nimbex
+nimbex preservative free
 nimodipine
-nimorazole
-nimotop
-ninjacof
-nintedanib
 nipent
-niravam
 nisoldipine
-nitazoxanide
-nitenpyram
-nitisinone
-nitrazepam
-nitro-bid
+nithiodote
 nitro-dur
-nitrocellulose
 nitrofurantoin
-nitrofurazone
-nitrogen
+nitrofurantoin (monohydrate/macrocrystals)
 nitroglycerin
-nitrol
-nitrolingual
+nitroglycerin in dextrose 5%
+nitrolingual pumpspray
 nitromist
-nitronal
 nitropress
-nitroprusside
 nitrostat
-nivolumab
 nizatidine
 nizoral
-nodolor
-nolvadex
-nonbac
-nonoxynol-10
-nonoxynol-100
-nonoxynol-2
-nonoxynol-20
-nonoxynol-30
-nonoxynol-8
-nonoxynol-9
+nor-qd
 norco
-norditropin
-norelgestromin
-norepinephrine
+nordette-28
+norditropin flexpro
+norepinephrine bitartrate
 norethindrone
-norethynodrel
+norethindrone acetate
+norethindrone acetate and ethinyl estradiol
+norethindrone acetate and ethinyl estradiol and ferrous fumarate
+norethindrone and ethinyl estradiol
+norethindrone and ethinyl estradiol (10/11)
+norethindrone and ethinyl estradiol and ferrous fumarate
 norflex
-norfloxacin
-norflurane
 norgesic
-norgestimate
-norgestrel
+norgesic forte
+norgestimate and ethinyl estradiol
+norinyl 1+35 21-day
+norinyl 1+35 28-day
+norinyl 1+50 28-day
 noritate
-norlyroc
-normlshield
-normodyne
-normosol-m
-normosol-r
-noroxin
+normocarb hf 25
+normocarb hf 35
+normosol-m and dextrose 5% in plastic container
+normosol-r and dextrose 5% in plastic container
+normosol-r in plastic container
 norpace
+norpace cr
 norpramin
-nortemp
 northera
-nortriptyline
+nortrel 0.5/35-28
+nortrel 1/35-21
+nortrel 1/35-28
+nortrel 7/7/7
+nortriptyline hydrochloride
 norvasc
 norvir
-noscapine
-nostrilla
-notuss-nx
-notuss-nxd
-novacort
-novagesic
-novarel
-novasal
-novobiocin
-novocaine
-novolin
 novolog
-novoseven
-novothyrox
+novolog flexpen
+novolog flextouch
+novolog mix 70/30
+novolog mix 70/30 flexpen
+novolog penfill
 noxafil
-nplate
-nubain
-nucort
 nucynta
+nucynta er
 nuedexta
-nulecit
-nulev
-nullo
-nulojix
 nulytely
-nuox
-nupercainal
-nutmeg
-nutradrops
-nutralox
-nutraplus
+nulytely-flavored
+nutracort
 nutrestore
-nutrilyte
-nutrisource
+nutrilipid 10%
+nutrilipid 20%
 nutropin
+nutropin aq
+nutropin aq pen
 nuvaring
+nuvessa
 nuvigil
-nuzole
-nuzon
-nyamyc
-nydamax
-nylon-12
 nymalize
 nystatin
+nystatin and triamcinolone acetonide
 nystop
-nytol
-o-cymen-5-ol
-o-phenylphenol
-oat
-oatmeal
-obinutuzumab
-obizur
 obredon
-ocriplasmin
-octagam
-octhilinone
-octinoxate
-octisalate
-octocrylene
-octoxynol-1
-octoxynol-40
-octoxynol-5
-octoxynol-9
-octreotide
-octycine-100
-octycine-250
-octyldodecanol
-octyltriethoxysilane
-ocudox
+octocaine
+octreoscan
+octreotide acetate
+octreotide acetate (preservative free)
 ocufen
 ocuflox
 ocupress
-ocusoft
-ocuvite
-ofatumumab
 ofev
 ofirmev
 ofloxacin
-oforta
-oftasceine
-ogen
-okra
+ogen .625
+ogen 1.25
+ogen 2.5
+ogen 5
+ogestrel 0.5/50-28
 olanzapine
-olaparib
+olanzapine and fluoxetine hydrochloride
 oleptro
-oleth-10
-oleth-2
-oleth-20
-oleth-3-phosphate
-oleth-5
-olmesartan
-olodaterol
-olopatadine
-olsalazine
+olopatadine hydrochloride
 olux
-olydextrose
+olux e
 olysio
-omacetaxine
-omalizumab
-ombitasvir
+omega-3-acid ethyl esters
 omeprazole
+omeprazole and clarithromycin and amoxicillin
+omeprazole and sodium bicarbonate
 omidria
 omnaris
-omni-pac
-omnicef
+omnipaque 140
+omnipaque 180
+omnipaque 240
+omnipaque 300
+omnipaque 350
 omnipred
+omniscan
 omnitrope
-omontys
 omtryg
-onabotulinumtoxina
-oncaspar
 ondansetron
+ondansetron hydrochloride
+ondansetron hydrochloride preservative free
 onexton
 onfi
 onglyza
-onion
 onmel
-onsolis
-ontak
-onxol
-ony-clear
 opana
-opaspray
-opcon-a
-opdivo
-ophthetic
-opium
-oprelvekin
+opana er
 opsumit
-optase
-optiflex-c
-optiflex-g
-optigene
+optimark
+optimark in plastic container
 optipranolol
+optiray 240
+optiray 300
+optiray 320
+optiray 350
+optison
 optivar
-orabase
 orabloc
 oracea
-oracit
-oragesic
-orajel
-oralone
-oramorph
-orange
 orap
 orapred
+orapred odt
 oraqix
-orastat
-oratuss
 oraverse
 oravig
-oraxyl
-orazinc
 orbactiv
-orbivan
-oregano
-orencia
 orenitram
+oretic
 orfadin
-orfro
-orgotein
-oritavancin
-orlistat
-ornex
-ornidazole
-ornithine
-orphenadrine
-ortho-nesic
-orthovisc
-orthowash
-orudis
-oruvail
-oscimin
-oscion
-oseltamivir
+orphenadrine citrate
+orphenadrine citrate, aspirin, and caffeine
+orsythia
+ortho cyclen-28
+ortho tri-cyclen
+ortho tri-cyclen lo
+ortho-cept
+ortho-novum 1/35-28
+ortho-novum 7/7/7-28
+orvaten
 oseni
-osmitrol
+osmitrol 10% in water
+osmitrol 10% in water in plastic container
+osmitrol 15% in water
+osmitrol 15% in water in plastic container
+osmitrol 20% in water
+osmitrol 20% in water in plastic container
+osmitrol 5% in water
+osmitrol 5% in water in plastic container
 osmoprep
-ospemifene
 osphena
-osteo-poretical
-ostercal-d
-osteum
 otezla
-oticin
-otozin
+oticair
 otrexup
-ovace
-ovalbumin
+ovcon-35
 ovide
 ovidrel
-oxacillin
+oxacillin sodium
 oxaliplatin
 oxandrin
 oxandrolone
@@ -3848,1933 +2355,1179 @@ oxaprozin
 oxazepam
 oxcarbazepine
 oxecta
-oxiconazole
-oxilan
+oxilan-300
+oxilan-350
 oxistat
-oxprenolol
 oxsoralen
 oxsoralen-ultra
-oxtellar
-oxtriphylline
-oxybenzone
+oxtellar xr
 oxybutynin
-oxychlorosene
-oxycodone
+oxybutynin chloride
+oxycet
+oxycodone and acetaminophen
+oxycodone and aspirin
+oxycodone hydrochloride
+oxycodone hydrochloride and acetaminophen
+oxycodone hydrochloride and ibuprofen
 oxycontin
-oxygen
-oxymetazoline
-oxymetholone
-oxymorphone
-oxyphencyclimine
-oxyphenonium
-oxyquinoline
-oxytetracycline
+oxymorphone hydrochloride
 oxytocin
 oxytrol
 ozurdex
-p-aminohippurate
-p-hydroxyamphetamine
 pacerone
-pack
 paclitaxel
-pacnex
-padimate-o
-painzone
-palbociclib
-palgic
-palifermin
-palipase
-paliperidone
-palivizumab
-palmitamide
-palonosetron
-palpeon
-pamabrom
 pamelor
-pamidronate
+pamidronate disodium
 pamine
-panadol
-panafil
-pancreatin
+pamine forte
 pancreaze
-pancrelipase
-pancron
-pancuronium
+pancuronium bromide
 pandel
-panhematin
-panitumumab
-panoxyl
 panretin
-pantethine
-panthenol
-pantolactone
-pantoprazole
-pantothenate
-papain
-papaverine
-papaya
-paprika
-paraffin
-paraldehyde
-paramethadione
-paramethasone
-parcaine
-parcopa
-paregoric
+pantoprazole sodium
+parafon forte dsc
+paragard t 380a
 paremyd
-pargyline
 paricalcitol
-paritaprevir
 parlodel
 parnate
 paroex
-paromomycin
+paromomycin sulfate
 paroxetine
-parsley
-parsnip
-pasireotide
-paste
+paroxetine hydrochloride
+paser
 pataday
 patanase
 patanol
-paxidorm
 paxil
+paxil cr
 pazeo
-pazopanib
 pce
-pea
-peach
-peanut
-pear
-pecan
-pectin
-pedi-dri
-pediacare
+pediamycin
+pediamycin 400
 pediapred
-pediarix
-pediazole
-pedipirox-4
-pedvaxhib
-peg-ppg-18-18-dimethicone
-peg:ppg-4-12:dimethicone
+pediotic
+peg 3350 and electrolytes
+peg-3350, sodium chloride, sodium bicarbonate, potassium chloride and bisacodyl
+peg-3350;potassium chloride;sodium bicarbonate;sodium chloride
 peganone
-pegaptanib
-pegaspargase
-pegasys
-pegfilgrastim
-peginesatide
-pegintron
-pegloticase
-pegvisomant
-pegylax
-pembrolizumab
-pemetrexed
-pemirolast
-pemoline
-penbutolol
-penciclovir
-penicillamine
-penicillin
+penicillin g potassium
+penicillin g potassium in plastic container
+penicillin g procaine
+penicillin g sodium
+penicillin v potassium
+penicillin-vk
+penlac
 pennsaid
-pentacel
-pentaerythritol
-pentagastrin
 pentam
-pentamidine
 pentasa
-pentastarch
-pentazocine
-pentetreotide
-pentobarbital
-pentostam
+pentolair
 pentostatin
-pentothal
 pentoxifylline
 pentoxil
-pentylamine
-pep-back
 pepcid
-peppermint
-pepto-bismol
-peramivir
-perampanel
 percocet
-perdiem
-perflutren
+percodan
 perforomist
-pergolide
-perhexiline
-periciazine
 peridex
-perigiene
-periguard
-perillaldehyde
-perindopril
-perindoprilat
+perikabiven in plastic container
+perindopril erbumine
 periochip
 periogard
-periostat
-perjeta
 permapen
-permax
 permethrin
-peroxyl
 perphenazine
-persa-gel
+perphenazine and amitriptyline hydrochloride
 persantine
-pertofrane
-pertuzumab
 pertzye
-petrolatum
 pexeva
 pfizerpen
-pharbetol
-phazyme
-phen-lax
-phena-hc
-phenadoz
-phenazo
-phenazopyridine
-phendiet
-phendimetrazine
-pheneen
-phenelzine
-phenergan
-phenindamine
-phenindione
-pheniramine
-phenmetrazine
-phenobarbital
-phenol
-phenolphthalein
-phenolsulfonphthalein
-phenoxybenzamine
-phenoxyethanol
-phenoxyisopropanol
-phenprocoumon
-phensuximide
-phentercot
-phentermine
-phentolamine
-phenylacetate
-phenylalanine
-phenylbutazone
-phenylbutyrate
-phenylephrine
-phenylpropanolamine
-phenyltoloxamine
+phendimetrazine tartrate
+phenelzine sulfate
+phenoxybenzamine hydrochloride
+phentermine hydrochloride
+phentermine resin complex
+phentolamine mesylate
+phenylephrine hydrochloride
+phenylephrine hydrochloride and promethazine hydrochloride
 phenytek
 phenytoin
+phenytoin sodium
+philith
 phisohex
-phloretin
-phos-flur
-phoslo
+phoslo gelcaps
 phoslyra
-phosphasal
-phosphatidylethanolamines
-phosphatidylinositols
-phosphatidylserine
-phosphorus
+phospholine iodide
 photofrin
-phrenilin
-physiolyte
-physiosol
-physostigmine
+phoxillum b22k 4/0 in plastic container
+phoxillum bk 4/2.5 in plastic container
+physiolyte in plastic container
+physiosol in plastic container
 phytonadione
-phytosphingosine
-phytosterols
 picato
-pill
-pilocar
-pilocarpine
-pilopine
-pimecrolimus
-pimobendan
-pimozide
-pin-x
+pilocarpine hydrochloride
+pilopine hs
+pimtrea
 pindolol
-pineapple
-pioglitazone
-pipecuronium
-piperacetazine
+pioglitazone hydrochloride
+pioglitazone hydrochloride and glimepiride
+pioglitazone hydrochloride and metformin hydrochloride
 piperacillin
-piperazine
-piperine
-piperocaine
-piperonal
-pipracil
-pirbuterol
-pirfenidone
+piperacillin and tazobactam
+pirmella 1/35
+pirmella 7/7/7
 piroxicam
-pistachio
-pitavastatin
 pitocin
-pitressin
+plan b
 plaquenil
-plasbumin
-plasdone
-plasmanate
-plasmin
-platinol
+plasma-lyte 148 and dextrose 5% in plastic container
+plasma-lyte 148 in water in plastic container
+plasma-lyte 56 and dextrose 5% in plastic container
+plasma-lyte 56 in plastic container
+plasma-lyte a in plastic container
+plasma-lyte m and dextrose 5% in plastic container
+plasma-lyte r in plastic container
 plavix
-plegridy
-plenamine
+plegisol in plastic container
 plendil
-plerixafor
 pletal
-plexion
 pliaglis
-plicamycin
-plum
-pluratuss
-podactin
-podocon
 podofilox
-podophyllin
-polacrilin
-policosanol
-polidocanol
-polihexanide
-polistirex
-polixetonium
 polocaine
-poloxalene
-poloxamer
-poly(lactide)
-poly(vinylpyrrolidone-co-vinyl-acetate)
-poly-dex
-poly-tussin
-poly-vi-sol
-polycarbophil
-polycin-b
-polydestrose
-polydextrose
-polyester-10
-polyglycerin-3
-polyglycerin-6
-polyhexanide
-polyisobutylene
-polylactide
-polyolprepolymer-2
-polysorbate
-polysorbates
-polysporin
-polytetrafluoroethylene
-polythiazide
+polocaine-mpf
+polyethylene glycol 3350
+polymycin b sulfate
+polymyxin b sulfate
 polytrim
-polyvinylpyrrolidone
-pomalidomide
 pomalyst
-pomegranate
-ponatinib
-ponazuril
 ponstel
-pontocaine
-porfimer
-pork
-posaconazole
-posiflush
-potaba
-potash
-potassium
-potassium,chelated
-potato
+portia-28
+potassium acetate in plastic container
+potassium chloride
+potassium chloride 0.037% in dextrose 10% and sodium chloride 0.2% in plastic container
+potassium chloride 0.037% in dextrose 10% and sodium chloride 0.45% in plastic container
+potassium chloride 0.037% in dextrose 10% and sodium chloride 0.9% in plastic container
+potassium chloride 0.037% in dextrose 5% and sodium chloride 0.11% in plastic container
+potassium chloride 0.037% in dextrose 5% and sodium chloride 0.2% in plastic container
+potassium chloride 0.037% in dextrose 5% and sodium chloride 0.33% in plastic container
+potassium chloride 0.037% in dextrose 5% and sodium chloride 0.45% in plastic container
+potassium chloride 0.037% in dextrose 5% and sodium chloride 0.9% in plastic container
+potassium chloride 0.075% in dextrose 10% and sodium chloride 0.2% in plastic container
+potassium chloride 0.075% in dextrose 10% and sodium chloride 0.45% in plastic container
+potassium chloride 0.075% in dextrose 10% and sodium chloride 0.9% in plastic container
+potassium chloride 0.075% in dextrose 3.3% and sodium chloride 0.3% in plastic container
+potassium chloride 0.075% in dextrose 5% and sodium chloride 0.11% in plastic container
+potassium chloride 0.075% in dextrose 5% and sodium chloride 0.2% in plastic container
+potassium chloride 0.075% in dextrose 5% and sodium chloride 0.33% in plastic container
+potassium chloride 0.075% in dextrose 5% and sodium chloride 0.45% in plastic container
+potassium chloride 0.075% in dextrose 5% and sodium chloride 0.9% in plastic container
+potassium chloride 0.075% in dextrose 5% in plastic container
+potassium chloride 0.11% in dextrose 10% and sodium chloride 0.2% in plastic container
+potassium chloride 0.11% in dextrose 10% and sodium chloride 0.45% in plastic container
+potassium chloride 0.11% in dextrose 10% and sodium chloride 0.9% in plastic container
+potassium chloride 0.11% in dextrose 3.3% and sodium chloride 0.3% in plastic container
+potassium chloride 0.11% in dextrose 5% and sodium chloride 0.11% in plastic container
+potassium chloride 0.11% in dextrose 5% and sodium chloride 0.2% in plastic container
+potassium chloride 0.11% in dextrose 5% and sodium chloride 0.33% in plastic container
+potassium chloride 0.11% in dextrose 5% and sodium chloride 0.45% in plastic container
+potassium chloride 0.11% in dextrose 5% and sodium chloride 0.9% in plastic container
+potassium chloride 0.149% in sodium chloride 0.45% in plastic container
+potassium chloride 0.15% in dextrose 10% and sodium chloride 0.2% in plastic container
+potassium chloride 0.15% in dextrose 10% and sodium chloride 0.45% in plastic container
+potassium chloride 0.15% in dextrose 10% and sodium chloride 0.9% in plastic container
+potassium chloride 0.15% in dextrose 3.3% and sodium chloride 0.3% in plastic container
+potassium chloride 0.15% in dextrose 5% and sodium chloride 0.11% in plastic container
+potassium chloride 0.15% in dextrose 5% and sodium chloride 0.2% in plastic container
+potassium chloride 0.15% in dextrose 5% and sodium chloride 0.33% in plastic container
+potassium chloride 0.15% in dextrose 5% and sodium chloride 0.45% in plastic container
+potassium chloride 0.15% in dextrose 5% and sodium chloride 0.9% in plastic container
+potassium chloride 0.15% in dextrose 5% in plastic container
+potassium chloride 0.15% in sodium chloride 0.45% in plastic container
+potassium chloride 0.15% in sodium chloride 0.9% in plastic container
+potassium chloride 0.22% in dextrose 10% and sodium chloride 0.2% in plastic container
+potassium chloride 0.22% in dextrose 10% and sodium chloride 0.45% in plastic container
+potassium chloride 0.22% in dextrose 10% and sodium chloride 0.9% in plastic container
+potassium chloride 0.22% in dextrose 3.3% and sodium chloride 0.3% in plastic container
+potassium chloride 0.22% in dextrose 5% and sodium chloride 0.11% in plastic container
+potassium chloride 0.22% in dextrose 5% and sodium chloride 0.2% in plastic container
+potassium chloride 0.22% in dextrose 5% and sodium chloride 0.33% in plastic container
+potassium chloride 0.22% in dextrose 5% and sodium chloride 0.45% in plastic container
+potassium chloride 0.22% in dextrose 5% and sodium chloride 0.9% in plastic container
+potassium chloride 0.224% in sodium chloride 0.9%
+potassium chloride 0.3% and sodium chloride 0.9% in plastic container
+potassium chloride 0.3% in dextrose 10% and sodium chloride 0.2% in plastic container
+potassium chloride 0.3% in dextrose 10% and sodium chloride 0.45% in plastic container
+potassium chloride 0.3% in dextrose 10% and sodium chloride 0.9% in plastic container
+potassium chloride 0.3% in dextrose 3.3% and sodium chloride 0.3% in plastic container
+potassium chloride 0.3% in dextrose 5% and sodium chloride 0.11% in plastic container
+potassium chloride 0.3% in dextrose 5% and sodium chloride 0.2% in plastic container
+potassium chloride 0.3% in dextrose 5% and sodium chloride 0.33% in plastic container
+potassium chloride 0.3% in dextrose 5% and sodium chloride 0.45% in plastic container
+potassium chloride 0.3% in dextrose 5% and sodium chloride 0.9% in plastic container
+potassium chloride 0.3% in dextrose 5% in plastic container
+potassium chloride 10meq in dextrose 5% and lactated ringer's in plastic container
+potassium chloride 10meq in dextrose 5% and sodium chloride 0.225% in plastic container
+potassium chloride 10meq in dextrose 5% and sodium chloride 0.3% in plastic container
+potassium chloride 10meq in dextrose 5% and sodium chloride 0.45% in plastic container
+potassium chloride 10meq in dextrose 5% and sodium chloride 0.9% in plastic container
+potassium chloride 10meq in plastic container
+potassium chloride 15meq in dextrose 5% and lactated ringer's in plastic container
+potassium chloride 15meq in dextrose 5% and sodium chloride 0.225% in plastic container
+potassium chloride 15meq in dextrose 5% and sodium chloride 0.3% in plastic container
+potassium chloride 15meq in dextrose 5% and sodium chloride 0.45% in plastic container
+potassium chloride 15meq in dextrose 5% and sodium chloride 0.9% in plastic container
+potassium chloride 20meq in dextrose 5% and lactated ringer's in plastic container
+potassium chloride 20meq in dextrose 5% and sodium chloride 0.225% in plastic container
+potassium chloride 20meq in dextrose 5% and sodium chloride 0.3% in plastic container
+potassium chloride 20meq in dextrose 5% and sodium chloride 0.45% in plastic container
+potassium chloride 20meq in dextrose 5% and sodium chloride 0.9% in plastic container
+potassium chloride 20meq in dextrose 5% in plastic container
+potassium chloride 20meq in dextrose 5% in sodium chloride 0.3% in plastic container
+potassium chloride 20meq in plastic container
+potassium chloride 20meq in sodium chloride 0.9% in plastic container
+potassium chloride 30meq in dextrose 5% and lactated ringer's in plastic container
+potassium chloride 30meq in dextrose 5% and sodium chloride 0.225% in plastic container
+potassium chloride 30meq in dextrose 5% and sodium chloride 0.3% in plastic container
+potassium chloride 30meq in dextrose 5% and sodium chloride 0.45% in plastic container
+potassium chloride 30meq in dextrose 5% and sodium chloride 0.9% in plastic container
+potassium chloride 30meq in dextrose 5% in plastic container
+potassium chloride 30meq in plastic container
+potassium chloride 40meq in dextrose 5% and lactated ringer's in plastic container
+potassium chloride 40meq in dextrose 5% and sodium chloride 0.225% in plastic container
+potassium chloride 40meq in dextrose 5% and sodium chloride 0.3% in plastic container
+potassium chloride 40meq in dextrose 5% and sodium chloride 0.45% in plastic container
+potassium chloride 40meq in dextrose 5% and sodium chloride 0.9% in plastic container
+potassium chloride 40meq in dextrose 5% in plastic container
+potassium chloride 40meq in plastic container
+potassium chloride 40meq in sodium chloride 0.9% in plastic container
+potassium chloride 5meq in dextrose 5% and lactated ringer's in plastic container
+potassium chloride 5meq in dextrose 5% and sodium chloride 0.225% in plastic container
+potassium chloride 5meq in dextrose 5% and sodium chloride 0.3% in plastic container
+potassium chloride 5meq in dextrose 5% and sodium chloride 0.45% in plastic container
+potassium chloride 5meq in dextrose 5% and sodium chloride 0.9% in plastic container
+potassium chloride in plastic container
+potassium citrate
 potiga
-povidine
-povidone
-povidone-iodine
-povidones
-ppg-12-buteth-16
-ppg-26-buteth-26
-ppg-30
-ppg-5-ceteth-20
-ppg-9
 pradaxa
-pralatrexate
-pralidoxime
-pramcort
-pramipexole
-pramlintide
+pralidoxime chloride
+pramipexole dihydrochloride
 pramosone
-pramotic
-pramoxine
 prandimet
 prandin
-prascion
-prasugrel
 pravachol
-pravastatin
-prax
-prazepam
-praziquantel
-prazosin
+pravastatin sodium
+prazosin hydrochloride
+pre-op
+pre-op ii
+pre-pen
 precedex
 precose
+pred forte
+pred mild
 pred-g
 prednicarbate
-prednicot
-prednisol
 prednisolone
+prednisolone sodium phosphate
 prednisone
-prefrin
+prednisone intensol
 pregabalin
-pregnenolone
-pregnitude
 pregnyl
-prelief
 prelone
 premarin
-premasol
-prenexa
-prep-hem
+premasol 10% in plastic container
+premasol 6% in plastic container
+premphase 14/14
+prempro
 prepidil
 prepopik
-preservision
 prestalia
-pretz
 prevacid
 prevalite
-prevident
-prevnar
+previfem
+prevpac
 prezcobix
 prezista
 prialt
 priftin
-prilocaine
+prilocaine hydrochloride
+prilocaine hydrochloride and epinephrine bitartrate
 prilosec
-primacor
 primaquine
-primatene
+primaquine phosphate
 primaxin
 primidone
-primlev
 primsol
 prinivil
 prinzide
+prismasol b22gk 2/0 in plastic container
+prismasol b22gk 4/0 in plastic container
+prismasol b22gk 4/2.5 in plastic container
+prismasol bgk 0/2.5 in plastic container
+prismasol bgk 2/0 in plastic container
+prismasol bgk 2/3.5 in plastic container
+prismasol bgk 4/0/1.2 in plastic container
+prismasol bgk 4/2.5 in plastic container
+prismasol bk 0/0/1.2 in plastic container
+prismasol bk 0/3.5 in plastic container
 pristiq
-privigen
-privine
-proamatine
-probanthine
+proair hfa
+probalan
 probenecid
-probucol
-procainamide
-procaine
-procarbazine
+probenecid and colchicine
+procainamide hydrochloride
+procalamine
 procardia
-procentra
-prochieve
+procardia xl
 prochlorperazine
-procomycin
-procrit
-procto-kit
-procto-pak
-proctocort
-proctocream
-proctofoam
-proctofoam-hc
-proctosol
-procyclidine
+prochlorperazine edisylate
+prochlorperazine maleate
+procomp
+proctofoam hc
 procysbi
-proderm
-prodium
-prodrin
-profenal
-profenamine
-proferrin
-proflavine
+proferdex
 progesterone
 proglycem
 prograf
-proguanil
-prolastin
+prohance
+prohance multipack
 prolensa
-proleukin
-prolia
-proline
-promacet
-promacot
 promacta
-promazine
-promethazine
+prometh hydrochloride,phenylephrine hydrochloride w/codeine phosphate
+prometh vc plain
+prometh vc w/ codeine
+promethazine dm
+promethazine hydrochloride
+promethazine hydrochloride and codeine phosphate
+promethazine hydrochloride and dextromethorphan hydrobromide
+promethazine hydrochloride and phenylephrine hydrochloride
+promethazine hydrochloride, phenylephrine hydrochloride w/codeine phosphate
+promethazine plain
+promethazine w/ dextromethorphan
+promethazine with codeine
 promethegan
 prometrium
-promolaxin
-pronto
-propafenone
-propane
-propanediol
-propantheline
-proparacaine
+propafenone hydrochloride
+propantheline bromide
+proparacaine hydrochloride
 propecia
-propel
-propine
-propiolactone
-propiomazine
 propofol
-propolis
-propoven
-propoxyphene
-propranolol
-proprinal
-propylene
-propylhexedrine
-propyliodone
-propylparaben
+propranolol hydrochloride
+propranolol hydrochloride and hydrochlorothiazide
 propylthiouracil
-proquad
-proquin
 proscar
-proscillaridin
-prosol
-protamine
-protamines
-prothrombin
-protirelin
+prosol 20% sulfite free in plastic container
+prostin e2
+prostin vr pediatric
+protamine sulfate
 protonix
-protopam
+protonix iv
+protopam chloride
 protopic
-protriptyline
-provenge
-proventil
+protriptyline hydrochloride
+proventil-hfa
 provera
 provigil
-provisc
-proxigermanium
+provocholine
 prozac
-prudoxin
-pseudoephedrine
-psorcon
-psoriasin
-psoriatec
-psyllium
-pulmicort
-pulmosal
-pulmozyme
-pummelo
-puralube
-purinethol
+prozac weekly
+pulmicort flexhaler
+pulmicort respules
+pulmolite
 purixan
-puroxcin
-purslane
-pycnogenol
 pylera
-pyrantel
 pyrazinamide
-pyrethrins
-pyridium
-pyridostigmine
-pyridoxal
-pyridoxine
-pyrilamine
-pyrimethamine
-pyrithione
-pyritidium
-pyrogallol
-pyroxylin
-pyrrolidone
-pyruvate
-q-gel
-q-up
-qdall
+pyridostigmine bromide
+pyridoxine hydrochloride
+pytest
+pytest kit
 qnasl
+qoliana
 qsymia
 quadramet
-quadrosilan
 qualaquin
-quarternium-15
-quaternium-14
-quaternium-15
-quaternium-18
-quaternium-22
-quaternium-52
-quazepam
-qudexy
+quartette
+quasense
+qudexy xr
 quelicin
-quercetin
-questran
-quetiapine
-quflora
-quibron-t
-quillivant
-quin-g
-quinapril
-quinaprilat
-quinethazone
-quinidine
-quinine
-quinupristin
-quinzyme
+quelicin preservative free
+quetiapine fumarate
+quillivant xr
+quinapril hydrochloride
+quinapril hydrochloride and hydrochlorothiazide
+quinaretic
+quinidine gluconate
+quinidine sulfate
+quinine sulfate
 quixin
 qutenza
-qvar
-rabavert
-rabbit
-rabeprazole
-racementhol
-racemethionine
-racepinephrine
-ractopamine
-radiaguard
-radiogardase
-radish
-radium
-ragwitek
-raloxifene
-raltegravir
+qvar 40
+qvar 80
+r-gene 10
+rabeprazole sodium
+radiogardase (prussian blue)
+raloxifene hydrochloride
 ramelteon
 ramipril
-ramiprilat
-ramucirumab
 ranexa
-ranibizumab
-ranitidine
+ranitidine hydrochloride
 ranolazine
-rapacuronium
 rapaflo
 rapamune
 rapivab
-rasagiline
-rasburicase
-raspberry
+rasagiline mesylate
 rasuvo
-rauwolfemms
 ravicti
-raxibacumab
 rayos
 razadyne
-re-azo
-rea-lo
+razadyne er
 rebetol
-rebif
-recede
 reclast
-recombinate
-recothrom
-rectacort-hc
-recticare
 rectiv
-redutemp
-refenesen
-refissa
-refludan
-regadenoson
-regenecare
-regimex
 regitine
 reglan
 regonol
-regorafenib
-regranex
-reguloid
-relafen
-relagard
-relagesic
 relenza
 relistor
 relpax
-rembrandt
 remeron
-remeven
-remicade
-remifentanil
+remeron soltab
 remodulin
-rena-vite
 renacidin
 renagel
-renese
-renese-r
+renografin-76
 renova
 renvela
-reopro
 repaglinide
-repan
 reprexain
 repronex
 requip
-rescinnamine
-rescon-gg
+requip xl
 rescriptor
+rescula
+resectisol in plastic container
 reserpine
-resinol
-resorcinol
-respa-br
-respaire
-respi-tann
-respivent
-restall
 restasis
-restone
 restoril
-resveratrol
-retaine
-retapamulin
-retavase
-reteplase
 retin-a
-retinol
+retin-a micro
+retin-a-micro
 retisert
-retre-gel
 retrovir
 revatio
-revex
 revia
-revina
 revlimid
 revonto
 reyataz
-rezamid
 rezira
-rheumatrex
-rhinall
-rhinaris
 rhinocort
-rhinoflex
-rhogam
-rhophylac
-rhubarb
-ri-mag
-riastap
-riax
 ribasphere
-ribatab
+ribavarin
 ribavirin
-riboflavin
-rice
-ricinoleate
-rid
-rid-a-pain
 ridaura
 rifabutin
 rifadin
 rifamate
-rifampicin
 rifampin
-rifapentine
 rifater
-rifaximin
-rightstep
-rilonacept
-rilpivirine
 rilutek
 riluzole
-rimabotulinumtoxinb
 rimactane
-rimantadine
-rimexolone
+rimantadine hydrochloride
 rimso-50
-riociguat
+ringer's in plastic container
 riomet
-risamine
-risedronate
+risedronate sodium
 risperdal
+risperdal consta
 risperidone
 ritalin
-ritodrine
+ritalin la
+ritalin-sr
 ritonavir
-rituxan
-rituximab
-rivaroxaban
-rivastigmine
-rixubis
-rizatriptan
-rna
-robafen
+rivastigmine tartrate
+rizatriptan benzoate
 robaxin
+robaxin-750
 robinul
-robitussin
+robinul forte
 rocaltrol
-roccal
 rocephin
-rocuronium
-rofecoxib
-roflumilast
-rogaine
-romazicon
-romidepsin
-romiplostim
-romycin
-ronidazole
-ropinirole
-ropivacaine
-rosadan
-rosanil
-rosemary
-rosiglitazone
-rosin
-rosula
-rosuvastatin
-rotarix
-rotateq
-rotigotine
+rocuronium bromide
+ropinirole hydrochloride
+ropivacaine hydrochloride
+rosiglitazone maleate
+rosiglitazone maleate and metformin hydrochloride
 rowasa
 roxicet
 roxicodone
-roxithromycin
 rozerem
-ruconest
-rufinamide
-rutin
-ruxolitinib
 ryanodex
-rybix
-rye
-rymed-d
-ryneze
 rytary
 rythmol
-ryzolt
-s-2
-s-adenosylmethionine
-s-benzoylmercaptoacetyltriglycine
+rythmol sr
 sabril
-saccharin
-sacrosidase
-safflower
-sage
+safyral
 saizen
-salacyn
 salagen
-saleto
-salex
-salicylamide
-saljet
-salkera
-salmeterol
-salonpas
-salsalate
-saltaire
 saluron
-salvax
 samsca
 sanctura
+sanctura xr
 sancuso
-sandalwood
 sandimmune
 sandostatin
-sani-supp
-sansert
-santyl
+sandostatin lar
 saphris
-sapropterin
-saquinavir
 sarafem
-saralasin
-sarapin
-sarcosine
-sargramostim
-sarkosyl
-sarna
-sarnol-hc
 savaysa
 savella
-saxagliptin
 saxenda
-scalacort
-scallop
-scandonest
-schiff
-sclareolide
+scandonest l
+scandonest plain
+scanlux-300
+scanlux-370
 sclerosol
-scopace
 scopolamine
-scot-tussin
-scytera
-sea-omega
-seb-prev
-sebasorb
-sebex
-sebulex
-secobarbital
+seasonale
+seasonique
+seconal sodium
 sectral
-secukinumab
-sedapap
-selegiline
-selenite
-selenium
-selenomethionine
-selepen
-selrx
+selegiline hydrochloride
+selenium sulfide
+selfemra
+selsun
 selzentry
-semduramicin
 semprex-d
-senexon
-senna
-sennosides
-senokot
-senokot-s
-senosol
-senosol-ss
 sensipar
 sensorcaine
 septocaine
 septra
-ser-ap-es
+septra ds
 serevent
-serine
-sermorelin
 seromycin
 serophene
 seroquel
+seroquel xr
 serostim
-sertaconazole
-sertraline
-serzone
-sevelamer
+sertraline hydrochloride
+setlakin
 sevoflurane
-shellac
-sibutramine
+sfrowasa
 signifor
-siladryl
-siladyl
-silapap
-sildenafil
+signifor lar
+sildenafil citrate
 silenor
-silfedrine
-silicon
-silicone
-silicones
-silodosin
-silodrate
-siltane
-siltussin
-siltuximab
 silvadene
-silver
 simbrinza
 simcor
-simeprevir
-simethicone
-simponi
-simulect
 simvastatin
-sinapultide
-sincalide
-sinecatechins
 sinemet
-sinex
+sinemet cr
 singulair
-sipuleucel-t
+sinografin
 sirolimus
 sirturo
-sitagliptin
 sitavig
-sitrex
 sivextro
 skelaxin
-skelid
 sklice
 skyla
-sleepinal
-slo-niacin
-slow-fe
-smcc
-smelt
-sochlor
-sodium
-sofosbuvir
+sodium acetate in plastic container
+sodium bicarbonate
+sodium chloride 0.45% in plastic container
+sodium chloride 0.9%
+sodium chloride 0.9% in plastic container
+sodium chloride 0.9% in sterile plastic container
+sodium chloride 3% in plastic container
+sodium chloride 5% in plastic container
+sodium chloride in plastic container
+sodium ferric gluconate complex in sucrose
+sodium fluoride f-18
+sodium iodide i 123
+sodium iodide i 131
+sodium iodide i-131
+sodium lactate 0.167 molar in plastic container
+sodium lactate 1/6 molar in plastic container
+sodium lactate in plastic container
+sodium nitrite
+sodium phenylbutyrate
+sodium phosphates in plastic container
+sodium polystyrene sulfonate
+sodium thiosulfate
 sojourn
 solaraze
-solarcaine
-solasulfone
-solesta
-solifenacin
-soliris
+solifenacin succinate
 solodyn
 soltamox
 solu-cortef
 solu-medrol
-soluclenz
-solufenum
 soma
-somatrem
-somatropin
-somatuline
+soma compound
+soma compound w/ codeine
+somatuline depot
 somavert
-sominex
-somnicin
 sonata
 soolantra
-sorafenib
-sorbitan
-sorbitol
+sorbitol 3% in plastic container
+sorbitol 3.3% in plastic container
+sorbitol-mannitol in plastic container
 soriatane
 sorilux
 sorine
-sotalol
+sotalol hydrochloride
 sotradecol
 sotret
 sotylize
 sovaldi
-soybean
-sparfloxacin
-spearmint
-spectinomycin
 spectracef
-spectrum-4
-spinach
-spinosad
 spiriva
+spiriva respimat
 spironolactone
-spirulina
+spironolactone and hydrochlorothiazide
 sporanox
-sportscreme
-sprayzoin
+sprintec
 sprix
 sprycel
-squalane
-squalene
-squash
+sps
 ssd
-st-37
-stadol
-stagesic
-stalevo
-stangard
-staphaseptic
-starch
+ssd af
+stalevo 100
+stalevo 125
+stalevo 150
+stalevo 200
+stalevo 50
+stalevo 75
 starlix
-statrol
 stavudine
-stavzor
 staxyn
-steareth-10
-steareth-100
-steareth-15
-steareth-2
-steareth-20
-steareth-21
-steareth-30
-stearoxytrimethylsilane
-stelara
 stendra
-stigmasterol
-stimate
+sterile water
+sterile water for injection in plastic container
+sterile water in plastic container
+stie-cort
+stimate (needs no refrigeration)
 stivarga
-stopain
 strattera
-strawberry
-streptokinase
-streptomycin
-streptozocin
-stri-dex
+streptomycin sulfate
 striant
 stribild
-stridex
-striverdi
-strix
+striverdi respimat
 stromectol
-strontium
-stye
-styptocaine
-styptstix
-styrene
-sublimaze
+strontium chloride sr-89
+sublimaze preservative free
 suboxone
 subsys
-subutex
-succimer
-succinylcholine
+suclear
 sucraid
 sucralfate
-sucralose
-sucrets
-sucrose
-sudafed
-sudo-tab
-sudodrin
-sudogest
-sufenta
-sufentanil
-sugar
-sugarcane
+sufenta preservative free
+sufentanil citrate
 sular
-sulbactam
-sulbutiamine
-sulconazole
-sulf-10
-sulfabenzamide
-sulfacetamide
+sulfacetamide sodium
+sulfacetamide sodium and prednisolone sodium phosphate
 sulfadiazine
-sulfadimethoxine
-sulfadoxine
-sulfamerazine
-sulfamethazine
-sulfamethizole
-sulfamethoxazole
+sulfamethoxazole and trimethoprim
+sulfamethoxazole and trimethoprim double strength
+sulfamethoxazole and trimethoprim single strength
 sulfamylon
-sulfanilamide
-sulfapyridine
 sulfasalazine
-sulfathiazole
-sulfatrim
-sulfazine
-sulfinpyrazone
-sulfiram
-sulfisoxazole
-sulfo-lo
-sulfoam
-sulfobromophthalein
-sulfobutylether-beta-cyclodextrin
-sulfur
-sulibenzone
+sulfatrim pediatric
 sulindac
-sulisobenzone
-sulmasque
-sulpho-lac
-sulthiame
-sumatriptan
-sumavel
-sumaxin
-sumycin
-sunitinib
-supartz
-superdent
-supprelin
+sumatriptan succinate
+sumavel dosepro
+sunitinib malate
+supprelin la
 suprane
 suprax
 suprenza
-suprofen
-surcrose
+suprep bowel prep kit
 surfaxin
 surmontil
 survanta
 sustiva
 sutent
-suttar
-suvorexant
-sweet-ease
-swordfish
-sylatron
-sylvant
-symax
+syeda
 symbicort
 symbyax
 symlin
-synagis
+synacort
 synalar
 synalgos-dc
-synapryn
 synarel
 synera
 synercid
-synovacin
 synribo
 synthroid
-synvisc
 syprine
-systane
-t-painol
-tabloid
-tabradol
-tachosil
 taclonex
-tacrine
 tacrolimus
-tactinal
-tadalafil
 tafinlar
-tafluprost
-tagamet
-talacen
-talbutal
 talc
 talwin
-tambocor
 tamiflu
-tamoxifen
-tamsulosin
-tanahist-d
-tandem
-tangerine
-tanzeum
+tamoxifen citrate
+tamsulosin hydrochloride
 tapazole
-tapentadol
 tarceva
-targiniq
 targretin
 tarka
-tarsum
-tartrazine
 tasigna
-tasimelteon
 tasmar
-taurine
-tavaborole
-tavist
+taxol
 taxotere
-tazarotene
 tazicef
-tazobactam
 tazorac
-taztia
-tbo-filgrastim
-tea-dodecylbenzenesulfonate
+taztia xt
 tecfidera
-tedizolid
-teduglutide
+technelite
+technescan
+technescan mag3
+technescan pyp kit
+technetium tc 99m albumin aggregated kit
+technetium tc 99m generator
+technetium tc 99m sestamibi
+technetium tc-99m mebrofenin
+technetium tc-99m sestamibi
 teflaro
-tegaserod
 tegretol
+tegretol-xr
 tekamlo
-tekral
 tekturna
-telaprevir
-telavancin
-telbivudine
-telithromycin
+tekturna hct
 telmisartan
-temafloxacin
+telmisartan and amlodipine
+telmisartan and hydrochlorothiazide
 temazepam
 temodar
 temovate
+temovate e
 temozolomide
-tempra
-temsirolimus
-tencon
-tenecteplase
 tenex
-teniposide
-tenivac
-tenofovir
-tenoretic
+tenoretic 100
+tenoretic 50
 tenormin
-tenoxicam
-tepadina
-terazosin
-terbinafine
-terbinex
-terbutaline
+tensilon
+tensilon preservative free
+tenuate
+tenuate dospan
+terazol 3
+terazol 7
+terazosin hydrochloride
+terbinafine hydrochloride
+terbutaline sulfate
 terconazole
-terfenadine
-teriflunomide
-teriparatide
-terpineol
-terra-cortril
-terramycin
-terrell
-tert-butylhydroquinone
-tesamorelin
+teril
+terramycin w/ polymyxin b sulfate
 tessalon
 testim
-testolactone
 testopel
 testosterone
+testosterone cypionate
+testosterone enanthate
 testred
-tetcaine
-tetrabenazine
-tetracaine
-tetracycline
-tetrafluoromethane
-tetrahydrocannabinol
-tetrahydrozoline
-tetravisc
-tetrofosmin
-tetterine
+tetracycline hydrochloride
+tev-tropin
 teveten
+teveten hct
 texacort
-thalidomide
 thalitone
+thallous chloride tl 201
 thalomid
-theaflavin
-theanine
+tham
 theo-24
 theochron
-theodur
 theolair
 theophylline
-thera-d
-thera-gesic
-theracran
-theracys
-theramycin
-therastat
-theratears
+theophylline 0.04% and dextrose 5% in plastic container
+theophylline 0.08% and dextrose 5% in plastic container
+theophylline 0.16% and dextrose 5% in plastic container
+theophylline 0.32% and dextrose 5% in plastic container
+theophylline in dextrose 5% in plastic container
 thermazene
-theromega
-thiabendazole
-thiamine
-thiethylperazine
-thimerosal
-thioctate
-thioglycerol
+thiamine hydrochloride
 thioguanine
 thiola
-thiopental
-thioridazine
-thiosalicylate
+thioridazine hydrochloride
 thiotepa
 thiothixene
-thiphenamil
-thonzonium
-thonzylamine
-thoracol
-threonine
-thrive
-thrombin
-thrombin-jmi
-thyme
-thymoglobulin
-thymol
 thyrogen
-thyroglobulin
-thyroid
-thyrolar
-thyrosafe
-thyroshield
-thyroxine
-tiagabine
-tiaprofenate
+thyrolar-0.25
+thyrolar-0.5
+thyrolar-1
+thyrolar-2
+thyrolar-3
+tiagabine hydrochloride
 tiazac
-tibolone
-ticagrelor
-ticarcillin
-ticlid
-ticlopidine
+ticlopidine hydrochloride
 tigan
-tigecycline
 tikosyn
 timentin
-timolol
+timentin in plastic container
+timolol maleate
 timoptic
-tinactin
-tinaderm
+timoptic in ocudose
+timoptic-xe
 tindamax
-ting
 tinidazole
-tinzaparin
-tioconazole
-tiopronin
-tiotropium
-tipranavir
-tirofiban
 tirosint
 tis-u-sol
-tisseel
-titanium
-titralac
+tis-u-sol in plastic container
 tivicay
 tivorbex
-tizanidine
-tnkase
+tizanidine hydrochloride
 tobi
+tobi podhaler
 tobradex
-tobraflex
+tobradex st
 tobramycin
+tobramycin and dexamethasone
+tobramycin sulfate
+tobramycin sulfate (pharmacy bulk)
+tobramycin sulfate in sodium chloride 0.9% in plastic container
 tobrex
-tocainide
-toceranib
-tocilizumab
-tocopherol
-tocopherol,dl-alpha
-tocophersolan
-tocotrienols
-tofacitinib
 tofranil
 tofranil-pm
 tolazamide
-tolazoline
 tolbutamide
-tolcapone
-tolinase
-tolmetin
-tolnaftate
-tolterodine
-toltrazuril
-toluene
-tolvaptan
-tomato
-toothpaste
-tootsweet
+tolmetin sodium
+tolterodine tartrate
 topamax
-topex
-topicale
 topicort
-topiragen
 topiramate
-toposar
-topotecan
-toprol
-toradol
-torecan
-toremifene
+topotecan hydrochloride
+toprol-xl
 torisel
 torsemide
-tositumomab
 totect
+toujeo solostar
 toviaz
-tracetin
+tpn electrolytes in plastic container
 tracleer
 tradjenta
-tragacanth
-tramadol
-trametinib
-trancot
+tramadol hydrochloride
+tramadol hydrochloride and acetaminophen
 trandate
 trandolapril
-trandolaprilat
-trans-ver-sal
-transanosil
+trandolapril and verapamil hydrochloride
+tranexamic acid
+transderm scop
 tranxene
-tranylcypromine
-trastuzumab
-trasylol
-travatan
-travel-ease
+tranylcypromine sulfate
+travasol 10% in plastic container
+travasol 5.5% in plastic container
+travasol 5.5% sulfite free w/ electrolytes in plastic container
+travasol 8.5% in plastic container
+travasol 8.5% sulfite free w/ electrolytes in plastic container
+travatan z
 travoprost
-trazodone
+trazodone hydrochloride
 treanda
 trecator
-trehalose
 trelstar
-trental
-treprostinil
 tretinoin
-tretten
 trexall
 treximet
 trezix
-tri-chlor
+tri-estarylla
+tri-legest 21
+tri-legest fe
+tri-linyah
 tri-luma
-tri-pak
-tri-vi-sol
-tri-zel
-triacetin
-triamcinolone
-triamcot
-triamterene
-trianex
-triaz
+tri-norinyl 28-day
+tri-previfem
+tri-sprintec
+triacin-c
+triamcinolone acetonide
+triamcinolone acetonide in absorbase
+triamterene and hydrochlorothiazide
 triazolam
-triazulenone
-tribehenin
 tribenzor
-tricaine
-tricaprin
-tricaprylin
-tricapryline
-tricetin
-trichlormethiazide
-trichloro-monofluoromethane
-trichloroacetaldehyde
-trichloroacetate
-trichlorofluoromethane
-trichloromonoflueormethane
-trichloromonofluoromethane
-trichlorosucrose
-trichlorotrifluoroethane
-triclosan
 tricor
-tridecanol
-trideceth-12
-trideceth-5
-trideceth-6
-trideceth-9
 triderm
-tridihexethyl
 tridione
-trientine
 triesence
-triethanolamine
-triethoxycaprylylsilane
-triethylamine
-triethylhexanoin
-trifluoperazine
-triflupromazine
+triferic
+trifluoperazine hydrochloride
 trifluridine
 triglide
-trihexyphenidyl
-trihydroxystearin
-triiodothyronine
-triisopropanolamine
-triisostearin
+trihexyphenidyl hydrochloride
 trileptal
 trilipix
-trilostane
 trilyte
-trimeprazine
-trimethadione
-trimethaphan
-trimethobenzamide
+trimethobenzamide hydrochloride
+trimethobenzamide hydrochloride preservative free
 trimethoprim
-trimethylolpropane
-trimetrexate
-trimipramine
-trimox
-trimyristin
-triolein
+trimethoprim sulfate and polymyxin b sulfate
+trimipramine maleate
 triostat
-trioxin
-trioxsalen
-tripalmitin
-tripedia
-tripelennamine
-triphed
-tripleflex
-triprolidine
-triptone
-triptorelin
 trisenox
-trisiloxane
-tristearin
-trisudrine
 triumeq
+trivora-28
 trizivir
-troglitazone
-trokendi
-trolamine
-troleandomycin
-tromethamine
+trokendi xr
+trophamine
+trophamine 10%
+tropicacyl
 tropicamide
-tropolone
-trospium
-trout
-trovafloxacin
-trovan
-tru-micin
-trulicity
-trumenba
+trospium chloride
 trusopt
 truvada
-truxcillin-vk
-trypsin
-tryptophan
-tubersol
-tucks
-tudorza
-tuftsin
-tulathromycin
-tums
-turkey
-turmeric
-turnip
-turpentine
+tudorza pressair
 tussicaps
 tussigon
-tussionex
-twilite
-twinrix
+tussionex pennkinetic
+twinject 0.15
+twinject 0.3
 twynsta
-tybamate
 tybost
-tycolene
 tygacil
 tykerb
-tylenol
-tylosin
-tyloxapol
-tyropanoate
-tyrosine
-tysabri
+tylenol w/ codeine no. 3
+tylenol w/ codeine no. 4
 tyvaso
 tyzeka
 tyzine
 u-cort
-u-kera
-u-lactin
-ubidecarenone
-ubiquinol
-ubiquinone
 uceris
-ulcerease
 ulesfia
-ulipristal
 uloric
 ultane
 ultiva
+ultra-technekow fm
 ultracet
 ultram
-ultrasal
-ultrase
+ultram er
+ultratag
 ultravate
+ultravist (pharmacy bulk)
+ultravist 150
+ultravist 240
+ultravist 300
+ultravist 300 in plastic container
+ultravist 370
 ultresa
-umeclidinium
-umecta
 unasyn
-undecylenate
-unguentine
-unifiber
 uniphyl
 uniretic
-unisom
 unithroid
 univasc
-unoprostone
-uracid
-uralgic
-uramaxin
-urea
-ureacin-10
-ureacin-20
 urecholine
-urelle
 urex
-uribel
-uricalm
-urispas
-uro-blue
-uro-mag
-urobiotic
 urocit-k
-urofollitropin
-urokinase
 uroxatral
-urso
-ursodeoxycholate
+urso 250
+urso forte
 ursodiol
-ustekinumab
-ustell
-utira
-utopic
 uvadex
-v-cil-k
 vagifem
-vagistat
-vagistat-1
-valacyclovir
+valacyclovir hydrochloride
 valchlor
 valcyte
-valdecoxib
-valerian
-valganciclovir
-valine
+valganciclovir hydrochloride
 valium
-valproate
-valrubicin
+valnac
+valproate sodium
+valproic acid
 valsartan
-valstar
+valsartan and hydrochlorothiazide
+valstar preservative free
 valtrex
-valu-dryl
-vanachol
-vanacof
-vanacof-8
-vanacon
-vanadium
-vancenase
-vancocin
-vancomycin
+valtropin
+vancocin hydrochloride
+vancocin hydrochloride in plastic container
+vancomycin hydrochloride
 vandazole
-vandetanib
-vanilla
-vanillin
-vaniply
 vaniqa
 vanos
-vanoxide-hc
-vanquish
-vanspar
 vantas
-vantin
-vaprisol
-vaqta
-vardenafil
-varenicline
+vaprisol in 5% dextrose in plastic container
+vardenafil hydrochloride
 varithena
-varivax
-varizig
 vascepa
-vaseline
 vaseretic
-vasocidin
-vasocon
-vasolex
-vasopressin
 vasostrict
 vasotec
 vazculep
-vazobid-pd
-vazol
-veal
-vecamyl
-vectibix
 vectical
-vecuronium
-vedolizumab
+vecuronium bromide
 velcade
 veletri
+velivet
 velphoro
 veltin
-vemurafenib
-venastat
-venelex
-venison
-venlafaxine
+venlafaxine hydrochloride
 venofer
 ventavis
-ventolin
-veracolate
+ventolin hfa
 veramyst
-verapamil
+verapamil hydrochloride
 verdeso
-verdrocet
 veregen
 verelan
-veripred
-vermox
+verelan pm
 versacloz
-versiclear
-verteporfin
-verticalm
 vesicare
-vexa
 vexol
 vfend
-vi-sudo
-viadur
 viagra
 vibativ
-vibra-tabs
+vibisone
 vibramycin
-vicodin
 vicoprofen
 victoza
 victrelis
-vidarabine
 vidaza
 videx
-vigabatrin
+videx ec
+viekira pak (copackaged)
 vigamox
 viibryd
-vilanterol
-vilazodone
-vildagliptin
-vimizim
 vimovo
 vimpat
-vinblastine
-vincamine
-vincasar
-vincristine
+vinblastine sulfate
+vincristine sulfate pfs
 vinorelbine
+vinorelbine tartrate
 viokace
-viokase
+viorele
 viracept
 viramune
-virasal
+viramune xr
 virazole
 viread
-virginiamycin
 viroptic
-viscoat
-visicol
-visine
-visine-a
-visken
-vismodegib
-vistacot
+visionblue
+visipaque 270
+visipaque 320
 vistaril
 vistide
 visudyne
-vita-respa
-vitafol-one
-vitapap
+vitamin d
+vitamin k1
 vitekta
 vitrase
-vitrasert
-vitrax
-vitron-c
 vituz
-vivacaine
 vivactil
-vivaglobin
-vivarin
 vivelle
+vivelle-dot
 vivitrol
-vivotif
+vizamyl
 vogelxo
 voltaren
-voltarol
-voluven
-vorapaxar
-voraxaze
+voltaren-xr
 voriconazole
-vorinostat
-vortioxetine
 vosol
-vospire
+vosol hc
+vospire er
 votrient
 vpriv
 vumon
 vusion
-vytone
+vyfemla
 vytorin
 vyvanse
-wal-act
-wal-dram
-wal-dryl
-wal-dryl-d
-wal-fex
-wal-finate
-wal-finate-d
-wal-four
-wal-itin
-wal-mucil
-wal-phed
-wal-profen
-wal-som
-wal-zan
-wal-zyr
-warfarin
-water
-watercress
-watermelon
+warfarin sodium
 welchol
 wellbutrin
-westcort
-westhroid
-wheat
-whey
-wilate
-wormwood
-x-viate
+wellbutrin sr
+wellbutrin xl
+wera
 xalatan
 xalkori
-xamoterol
 xanax
+xanax xr
 xarelto
-xartemis
-xebcort
+xartemis xr
 xeljanz
 xeloda
-xenaderm
 xenazine
 xenical
-xenon-133
-xeomin
+xenon xe 133
 xerese
-xgeva
-xiaflex
 xifaxan
-xigduo
-ximino
-xodol
+xigduo xr
 xofigo
-xolair
 xolegel
-xolex
-xolido
-xolox
 xopenex
-xoten
-xoten-c
+xopenex hfa
 xtandi
 xtoro
 xulane
-xylazine
-xylene
-xylitol
-xylitylglucoside
 xylocaine
-xylocard
-xylometazoline
-xylon
-xylose
-xyntha
+xylocaine 4% preservative free
+xylocaine preservative free
+xylocaine viscous
+xylocaine w/ epinephrine
 xyrem
 xyzal
-yeast
-yeasts
-yervoy
-yf-vax
-yocon
-yodoxin
-yohimbine
-z-cof
-z-pak
-z-pram
-z-sleep
-z-xtra
-zaditor
+yaela
+yasmin
+yaz
 zafirlukast
-zalcitabine
 zaleplon
-zaltrap
-zamicet
 zanaflex
-zanamivir
 zanosar
 zantac
+zantac 150
+zantac 300
 zarontin
 zaroxolyn
 zavesca
-zazole
-zeasorb
-zeasorb-af
-zeaxanthin
 zebeta
-zebutal
 zecuity
-zedoary
-zein
+zegerid
 zelapar
 zelboraf
-zelnorm
-zemaira
 zemplar
-zemuron
 zenatane
 zenpep
-zenzedi
-zephiran
-zephrex-d
 zerbaxa
 zerit
 zestoretic
 zestril
 zetia
 zetonna
-zflex
-zgesic
 ziac
 ziagen
 ziana
-ziconotide
 zidovudine
-zilactin-l
-zileuton
 zinacef
-zinc
-zinc-dtpa
-zincon
+zinacef in plastic container
+zinc chloride in plastic container
 zinecard
 zingo
-zinotic
 zioptan
-ziprasidone
+ziprasidone hydrochloride
 zipsor
 zirgan
-zithranol
-zithranol-rr
 zithromax
-ziv-aflibercept
 zmax
 zocor
 zofran
-zohydro
+zofran odt
+zofran preservative free
+zohydro er
 zoladex
+zoledronic acid
 zolinza
 zolmitriptan
 zoloft
-zolpidem
+zolpidem tartrate
 zolpimist
-zolvit
-zomepirac
 zometa
 zomig
+zomig-zmt
 zonalon
-zonatuss
 zonegran
 zonisamide
 zontivity
-zopiclone
 zorbtive
-zorcaine
 zortress
 zorvolex
-zostavax
-zostrix
 zosyn
-zotex-d
+zosyn in plastic container
+zovia 1/35e-28
+zovia 1/50e-28
 zovirax
 zubsolv
 zuplenz
@@ -5782,17 +3535,16 @@ zutripro
 zyban
 zyclara
 zydelig
-zydone
 zyflo
+zyflo cr
 zykadia
 zylet
 zyloprim
+zymar
 zymaxid
-zymine
-zypram
 zyprexa
+zyprexa relprevv
+zyprexa zydis
 zyrtec
-zyrtec-d
 zytiga
 zyvox
-zzzquil

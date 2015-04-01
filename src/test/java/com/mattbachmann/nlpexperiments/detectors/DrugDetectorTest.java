@@ -25,8 +25,8 @@ public class DrugDetectorTest {
     @Test
     public void testMedicalDetector() throws Exception {
         List<String> expectedResults = Arrays.<String>asList(
-                "date",
-                "aspirin"
+                "aspirin",
+                "Today"
         );
 
         List<String> results = drugDetector.findAll("Dr. Nutritious\n" +

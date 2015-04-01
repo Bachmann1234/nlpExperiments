@@ -8,6 +8,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.StringJoiner;
+import java.util.regex.Pattern;
 
 public class DrugModule extends AbstractModule {
     @Override
@@ -26,6 +28,12 @@ public class DrugModule extends AbstractModule {
            throw new IllegalStateException("Could not load in drugs");
         }
 
-        bind(Set.class).annotatedWith(Names.named("drugNames")).toInstance(drugNames);
+        StringJoiner joiner = new StringJoiner("|", "\\b(?:", ")\\b");
+
+        drugNames.stream().map(Pattern::quote).forEach(joiner::add);
+
+        Pattern drugPattern = Pattern.compile(joiner.toString(), Pattern.CASE_INSENSITIVE);
+
+        bind(Pattern.class).annotatedWith(Names.named("drugPattern")).toInstance(drugPattern);
     }
 }

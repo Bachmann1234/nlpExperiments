@@ -5,15 +5,16 @@ import com.google.inject.name.Named;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class DrugDetector implements Detector {
 
-    Set<String> drugNames;
+    private Pattern drugPattern;
 
     @Inject
-    public DrugDetector(@Named("drugNames") Set drugNames) {
-        this.drugNames = drugNames;
+    public DrugDetector(@Named("drugPattern") Pattern drugPattern) {
+        this.drugPattern = drugPattern;
     }
 
     @Override
@@ -24,12 +25,11 @@ public class DrugDetector implements Detector {
     @Override
     public List<String> findAll(String text) throws DetectionException {
         List<String> results = new ArrayList<>();
-        String[] tokens = text.toLowerCase().split("\\s+");
-        for(String token : tokens) {
-            if(drugNames.contains(token)) {
-                results.add(token);
-            }
+        Matcher m = drugPattern.matcher(text);
+        while(m.find()) {
+            results.add(m.group());
         }
+
         return results;
     }
 
